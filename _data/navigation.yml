@@ -1,0 +1,12 @@
+main:
+  - title: "Publications"
+    url: publications.html
+  - title: "CV"
+    url: CV.html
+  - title: "Projects"
+    url: projects.html
+  - title: "Mentees"
+    url: mentees.html
+  - title: "Bio"
+    url: bio.html
+

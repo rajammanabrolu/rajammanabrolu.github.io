@@ -1,0 +1,357 @@
+entries:
+      - id: martin2018event
+        type: inproceedings
+        title: Event Representations for Automated Story Generation with Deep Neural
+            Nets
+        booktitle: Thirty-Second AAAI Conference on Artificial Intelligence
+        pages: 868--875
+        year: '2018'
+        author:
+        -   first: Lara
+            middle: J
+            last: Martin
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Xinyu
+            last: Wang
+        -   first: William
+            last: Hancock
+        -   first: Shruti
+            last: Singh
+        -   first: Brent
+            last: Harrison
+        -   first: Mark
+            middle: O
+            last: Riedl
+      - id: martin2017improvisational
+        type: inproceedings
+        title: Improvisational storytelling agents
+        booktitle: Workshop on Machine Learning for Creativity and Design (NeurIPS
+            2017)
+        pages: '4'
+        year: '2017'
+        author:
+        -   first: Lara
+            middle: J
+            last: Martin
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Xinyu
+            last: Wang
+        -   first: Shruti
+            last: Singh
+        -   first: Brent
+            last: Harrison
+        -   first: Murtaza
+            last: Dhuliawala
+        -   first: Pradyumna
+            last: Tambwekar
+        -   first: Animesh
+            last: Mehta
+        -   first: Richa
+            last: Arora
+        -   first: Nathan
+            last: Dass
+        -   last: others
+      - id: ammanabrolu2019playing
+        type: inproceedings
+        title: Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning
+        booktitle: North American Chapter of the Association for Computational Linguistics
+            (NAACL-HLT) 2019
+        number: arXiv:1812.01628v2
+        year: '2019'
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
+            last: Riedl
+      - id: ammanabrolu20transfer
+        type: inproceedings
+        title: Transfer in Deep Reinforcement Learning Using Knowledge Graphs
+        booktitle: Proceedings of the Thirteenth Workshop on Graph-Based Methods for
+            Natural Language Processing (TextGraphs-13) at EMNLP
+        year: '2019'
+        journal: arXiv preprint arXiv:1908.06556
+        url: https://www.aclweb.org/anthology/D19-5301
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
+            last: Riedl
+      - id: ammanabrolu20story
+        type: inproceedings
+        title: 'Story Realization: Expanding Plot Events into Sentences'
+        volume: '34'
+        url: https://ojs.aaai.org/index.php/AAAI/article/view/6232
+        DOI: 10.1609/aaai.v34i05.6232
+        year: '2020'
+        month: Apr.
+        pages: 7375-7382
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Ethan
+            last: Tien
+        -   first: Wesley
+            last: Cheung
+        -   first: Zhaochen
+            last: Luo
+        -   first: William
+            last: Ma
+        -   first: Lara
+            middle: J.
+            last: Martin
+        -   first: Mark
+            middle: O.
+            last: Riedl
+      - id: hausknecht2020interactive
+        type: inproceedings
+        title: 'Interactive fiction games: A colossal adventure'
+        booktitle: Proceedings of the AAAI Conference on Artificial Intelligence
+        volume: '34'
+        number: '05'
+        pages: 7903--7910
+        year: '2020'
+        author:
+        -   first: Matthew
+            last: Hausknecht
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Marc-Alexandre
+            last: Cot'e
+        -   first: Xingdi
+            last: Yuan
+      - id: ammanabrolu2020towards
+        type: inproceedings
+        title: Toward Automated Quest Generation in Text-Adventure Games
+        booktitle: International Conference on Computational Creativity (ICCC)
+        year: '2020'
+        url: https://arxiv.org/abs/1909.06283
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: William
+            last: Broniec
+        -   first: Alex
+            last: Mueller
+        -   first: Jeremy
+            last: Paul
+        -   first: Mark
+            middle: O.
+            last: Riedl
+      - id: ammanabrolu2020bringing
+        type: inproceedings
+        title: 'Bringing stories alive: Generating interactive fiction worlds'
+        booktitle: Proceedings of the Sixteenth AAAI Conference on Artificial Intelligence
+            and Interactive Digital Entertainment (AIIDE-20)
+        url: https://www.aaai.org/ojs/index.php/AIIDE/article/view/7400
+        year: '2020'
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Wesley
+            last: Cheung
+        -   first: Dan
+            last: Tu
+        -   first: William
+            last: Broniec
+        -   first: Mark
+            middle: O
+            last: Riedl
+      - id: ammanabrolu2020graph
+        type: inproceedings
+        title: Graph Constrained Reinforcement Learning for Natural Language Action
+            Spaces
+        booktitle: International Conference on Learning Representations
+        year: '2020'
+        url: https://openreview.net/forum?id=B1x6w0EtwH
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Matthew
+            last: Hausknecht
+      - id: ammanabrolu2020avoid
+        type: article
+        title: 'How to avoid being eaten by a grue: Structured exploration strategies
+            for textual worlds'
+        journal: arXiv preprint arXiv:2006.07409
+        year: '2020'
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Ethan
+            last: Tien
+        -   first: Matthew
+            last: Hausknecht
+        -   first: Mark
+            middle: O
+            last: Riedl
+      - id: ammanabrolu2020story
+        type: inproceedings
+        title: 'Story Realization: Expanding Plot Events into Sentences.'
+        booktitle: AAAI
+        pages: 7375--7382
+        year: '2020'
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Ethan
+            last: Tien
+        -   first: Wesley
+            last: Cheung
+        -   first: Zhaochen
+            last: Luo
+        -   first: William
+            last: Ma
+        -   first: Lara
+            middle: J
+            last: Martin
+        -   first: Mark
+            middle: O
+            last: Riedl
+      - id: ammanabrolu2019guided
+        type: inproceedings
+        title: Guided Neural Language Generation for Automated Storytelling
+        booktitle: Proceedings of the Second Workshop on Storytelling
+        month: August
+        year: '2019'
+        address: Florence, Italy
+        publisher: Association for Computational Linguistics
+        url: https://www.aclweb.org/anthology/W19-3405
+        doi: 10.18653/v1/W19-3405
+        pages: 46--55
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Ethan
+            last: Tien
+        -   first: Wesley
+            last: Cheung
+        -   first: Zhaochen
+            last: Luo
+        -   first: William
+            last: Ma
+        -   first: Lara
+            last: Martin
+        -   first: Mark
+            last: Riedl
+      - id: ammanabrolu2020automated
+        type: inproceedings
+        title: Automated storytelling via causal, commonsense plot ordering
+        booktitle: Thirty-Second AAAI Conference on Artificial Intelligence
+        url: https://arxiv.org/abs/2009.00829
+        year: '2020'
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Wesley
+            last: Cheung
+        -   first: William
+            last: Broniec
+        -   first: Mark
+            middle: O
+            last: Riedl
+      - id: ammanabrolu2021motivate
+        type: inproceedings
+        title: 'How to Motivate Your Dragon: Teaching Goal-Driven Agents to Speak
+            and Act in Fantasy Worlds'
+        booktitle: 'Proceedings of the 2021 Conference of the North American Chapter
+            of the Association for Computational Linguistics: Human Language Technologies'
+        month: June
+        year: '2021'
+        address: Online
+        publisher: Association for Computational Linguistics
+        url: https://aclanthology.org/2021.naacl-main.64
+        doi: 10.18653/v1/2021.naacl-main.64
+        pages: 807--833
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Jack
+            last: Urbanek
+        -   first: Margaret
+            last: Li
+        -   first: Arthur
+            last: Szlam
+        -   first: Tim
+            last: Rockt"aschel
+        -   first: Jason
+            last: Weston
+      - id: singaraju2020techniques
+        type: misc
+        title: Techniques for building a knowledge graph in limited knowledge domains
+        year: '2020'
+        note: US Patent App. 16/542,017
+        author:
+        -   first: Gautam
+            last: Singaraju
+        -   first: Prithviraj
+            middle: Venkata
+            last: Ammanabrolu
+      - id: dambekodi2020playing
+        type: article
+        title: Playing text-based games with common sense
+        journal: arXiv preprint arXiv:2012.02757
+        url: https://arxiv.org/abs/2012.02757
+        year: '2020'
+        author:
+        -   first: Sahith
+            last: Dambekodi
+        -   first: Spencer
+            last: Frazier
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
+            middle: O
+            last: Riedl
+      - id: ammanabrolu2021situated
+        type: article
+        title: Situated Language Learning via Interactive Narratives
+        journal: Patterns, Cell Press
+        url: https://arxiv.org/abs/2103.09977
+        year: '2021'
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
+            middle: O
+            last: Riedl
+      - id: si2021telling
+        type: inproceedings
+        title: Telling Stories through Multi-User Dialogue by Modeling Character Relations
+        booktitle: SIGDIAL 2021
+        url: https://arxiv.org/abs/2105.15054
+        year: '2021'
+        author:
+        -   first: Wai
+            middle: Man
+            last: Si
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
+            middle: O
+            last: Riedl
+      - id: ammanabrolu2021modeling
+        type: inproceedings
+        title: Modeling Worlds in Text
+        booktitle: Thirty-fifth Conference on Neural Information Processing Systems
+            Datasets and Benchmarks Track (Round 1)
+        year: '2021'
+        url: https://openreview.net/forum?id=7FHnnENUG0
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
+            last: Riedl
+      - id: ammanabrolu2021learning
+        type: article
+        title: Learning Knowledge Graph-based World Models of Textual Environments
+        journal: arXiv preprint arXiv:2106.09608
+        url: https://arxiv.org/abs/2106.09608
+        year: '2021'
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
+            middle: O
+            last: Riedl

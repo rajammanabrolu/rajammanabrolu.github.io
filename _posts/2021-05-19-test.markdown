@@ -1,0 +1,6 @@
+---
+title:  "Dissertation"
+date:   2021-09-10 09:00:00 -0400
+
+---
+A copy of my dissertation titled "Language Learning in Interactive Environments" can be found [here](/hosted/Language_Learning_Thesis_Prithviraj_A.pdf).

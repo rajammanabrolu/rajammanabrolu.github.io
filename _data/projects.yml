@@ -1,0 +1,48 @@
+- name: Operating in Textual Worlds
+  description: >
+    These games are usually structured as puzzles or quests with long-term dependencies in which a player must complete a sequence of actions to succeed. Operating in these worlds requires an agent to reason about partially observable worlds in a combinatorially-sized state-action spaces. These works focus on the use of knowledge graphs to aid in these challenges.
+  pubs: 
+    - id: hausknecht2020interactive
+      context: Jericho (https://github.com/microsoft/jericho), the original human-made text game benchmark.
+    - id: ammanabrolu2019playing
+      context: Introduces the KG-DQN, using KG state representations for more efficient off-policy RL learning.
+    - id: ammanabrolu20transfer
+      context: Explores how KG-DQN trained agents can transfer commonsense and domain-specific knowledge between domains and online guides through their graphs.
+    - id: ammanabrolu2020graph
+      context: Introduces the KG-A2C, adapting KG-based agents to larger action spaces and on-policy training.
+    - id: ammanabrolu2020avoid 
+      context: The Q*BERT agent is intrinsically motivated to ask questions about the world and learn more about it to more systematically explore it, all the while leveraging the commonsense reasoning abilities of a large language model.
+- name: World Modeling
+  description: >
+    Operating in most interactive narratives requires navigation and interaction with hundreds of locations, characters, and objects. These works focus on knowledge representation, i.e. building better world models of the transitions in such worlds.
+  pubs: 
+    - id: ammanabrolu2021modeling
+      context: The JerichoWorld (https://github.com/JerichoWorld/JerichoWorld) benchmark consisting of text state to world knowledge graphs from over 30 games.
+    - id: ammanabrolu2021learning
+      context: The Worldformer, a state-of-the-art textual world model that predicts world state and plausible agent actions simultaneously.
+- name: Interactive Situated Dialogue
+  description: >
+    These works focus on developing agents that can produce contextually relevant dialogue utterances while remaining true to their personas and motivations, situations that voice assistants such as Siri or Alexa might find themselves in when improvising responses.
+  pubs:
+    - id: si2021telling
+      context: We train Dungeons and Dragons player agents using transcripts of human-played games, finding that simultaneously predicting relationships between characters in a multi-user setting improves collaborative storytelling/dialogue abilities of agents.
+    - id: ammanabrolu2021motivate
+      context: Builds on LIGHT (https://parl.ai/projects/light/), a large-scale crowd-sourced fantasy text game, by releasing a dataset of motivations or quests for characters and further an entire RL framework to train them. Agents we train interactively are not only more consistent with respect to the actions they do but more natural in terms of dialogues uttered.
+- name: Automated Story Generation
+  description: >
+    Storytelling is one of the most natural forms of human communication and imagine how much more we can do if our computers can understand language. 
+  pubs:
+    - id: martin2018event
+      context: Foundational automated storytelling paper that focused on the knowledge representations to be used for neural net-based stories.
+    - id: ammanabrolu20story
+      context: A system that was able to realize and flesh out a plot into a full story.
+    - id: ammanabrolu2020automated
+      context: Generating commonsensey consistent plots for stories with large scale commonsense transformers and plot graphs.
+- name: Procedural Content Generation
+  description: >
+    Agents trained to solve these games are limited by the scenarios described in them. Although the range of scenarios is vast, this brings about the question of what the agent is actually capable of understanding even if it has learned to solve all the puzzles in a particular game. These works are based on the idea that a potential way of testing an AI system's understanding of a domain is to use the knowledge it has gained in a novel way and to create more instances of that domain.
+  pubs: 
+    - id: ammanabrolu2020towards
+      context: Focuses on quest generation as a sequence of actions to be completed and then anchoring them in a given world using knowledge graphs.
+    - id: ammanabrolu2020bringing
+      context: Focuses on world generation by extracting a knowledge graph of a world from a given story. Basically turning a linear reading experience into something you can interact with.
