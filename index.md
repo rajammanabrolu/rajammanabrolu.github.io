@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 header:
-  image: /assets/images/topbar_ascii.gif
+  image: /assets/images/banner.png
 show_overlay_excerpt: false
 classes: wide
 author:
