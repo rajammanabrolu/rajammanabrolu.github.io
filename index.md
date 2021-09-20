@@ -32,7 +32,7 @@ author:
 ---
 **Prithviraj's Home** Score: 0
 
->Welcome. You have arrived at the home of Prithviraj (a.k.a The "Earth King" in Sanskrit). You see a plaque with an inscription below a picture of him at the door. What do you do?
+>Welcome. You have arrived at the home of Prithviraj (a.k.a The "Earth King" when translated from Sanskrit). You see a plaque with an inscription below a picture of him at the door. What do you do?
 
 \>examine plaque
 
