@@ -1,6 +1,6 @@
 ---
 title:  "Dissertation"
-date:   2021-09-10 09:00:00 -0400
+date:   2021-09-19 09:00:00 -0400
 
 ---
-A copy of my dissertation titled "Language Learning in Interactive Environments" can be found [here](/hosted/Language_Learning_Thesis_Prithviraj_A.pdf).
+My officially published dissertation titled "Language Learning in Interactive Environments" can be found [here](https://smartech.gatech.edu/handle/1853/65088).
