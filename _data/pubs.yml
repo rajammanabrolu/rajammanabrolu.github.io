@@ -489,7 +489,7 @@ entries:
         bibtex: |
             @inproceedings{peng2021explainable,
             title={Explainable Reinforcement Learning Agents with Stacked Hierarchical Graph Attention},
-            author={Prithviraj Ammanabrolu and Mark Riedl},
+            author={Xiangyu Peng and Prithviraj Ammanabrolu and Mark Riedl},
             booktitle={Workshop on Explainable Graph-based Machine Learning at AKBC},
             year={2021},
             }
@@ -499,6 +499,8 @@ entries:
         booktitle: Workshop on Explainable Graph-based Machine Learning at AKBC
         year: '2021'
         author:
+        -   first: Xiangyu
+            last: Peng
         -   first: Prithviraj
             last: Ammanabrolu
         -   first: Mark

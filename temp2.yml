@@ -331,6 +331,8 @@ entries:
         booktitle: Workshop on Explainable Graph-based Machine Learning at AKBC
         year: '2021'
         author:
+        -   first: Xiangyu
+            last: Peng
         -   first: Prithviraj
             last: Ammanabrolu
         -   first: Mark
