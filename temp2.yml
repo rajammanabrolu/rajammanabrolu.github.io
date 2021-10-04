@@ -324,15 +324,37 @@ entries:
             last: Ammanabrolu
         -   first: Mark
             last: Riedl
-      - id: ammanabrolu2021learning
-        type: article
-        title: Learning Knowledge Graph-based World Models of Textual Environments
-        journal: arXiv preprint arXiv:2106.09608
-        url: https://arxiv.org/abs/2106.09608
+      - id: peng2021explainable
+        type: inproceedings
+        title: Explainable Reinforcement Learning Agents with Stacked Hierarchical
+            Graph Attention
+        booktitle: Workshop on Explainable Graph-based Machine Learning at AKBC
         year: '2021'
         author:
         -   first: Prithviraj
             last: Ammanabrolu
         -   first: Mark
-            middle: O
+            last: Riedl
+      - id: ammanabrolu2021modelingws
+        type: inproceedings
+        title: Modeling Worlds in Text
+        booktitle: The First Workshop on Commonsense Reasoning and Knowledge Bases
+            (CSKB) at AKBC
+        year: '2021'
+        url: https://openreview.net/forum?id=7FHnnENUG0
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
+            last: Riedl
+      - id: ammanabrolu2021learning
+        type: inproceedings
+        title: Learning Knowledge Graph-based World Models of Textual Environments
+        booktitle: Thirty-fifth Conference on Neural Information Processing Systems
+        year: '2021'
+        url: https://arxiv.org/abs/2106.09608
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
             last: Riedl

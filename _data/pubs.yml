@@ -468,7 +468,7 @@ entries:
       - id: ammanabrolu2021modeling
         bibtex: |
             @inproceedings{ammanabrolu2021modeling,
-            title={Modeling Worlds in Text },
+            title={Modeling Worlds in Text},
             author={Prithviraj Ammanabrolu and Mark Riedl},
             booktitle={Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 1)},
             year={2021},
@@ -485,23 +485,60 @@ entries:
             last: Ammanabrolu
         -   first: Mark
             last: Riedl
-      - id: ammanabrolu2021learning
+      - id: peng2021explainable
         bibtex: |
-            @article{ammanabrolu2021learning,
-            title={Learning Knowledge Graph-based World Models of Textual Environments},
-            author={Ammanabrolu, Prithviraj and Riedl, Mark O},
-            journal={arXiv preprint arXiv:2106.09608},
-            url={https://arxiv.org/abs/2106.09608},
-            year={2021}
+            @inproceedings{peng2021explainable,
+            title={Explainable Reinforcement Learning Agents with Stacked Hierarchical Graph Attention},
+            author={Prithviraj Ammanabrolu and Mark Riedl},
+            booktitle={Workshop on Explainable Graph-based Machine Learning at AKBC},
+            year={2021},
             }
-        type: article
-        title: Learning Knowledge Graph-based World Models of Textual Environments
-        journal: arXiv preprint arXiv:2106.09608
-        url: https://arxiv.org/abs/2106.09608
+        type: inproceedings
+        title: Explainable Reinforcement Learning Agents with Stacked Hierarchical
+            Graph Attention
+        booktitle: Workshop on Explainable Graph-based Machine Learning at AKBC
         year: '2021'
         author:
         -   first: Prithviraj
             last: Ammanabrolu
         -   first: Mark
-            middle: O
+            last: Riedl
+      - id: ammanabrolu2021modelingws
+        bibtex: |
+            @inproceedings{ammanabrolu2021modelingws,
+            title={Modeling Worlds in Text},
+            author={Prithviraj Ammanabrolu and Mark Riedl},
+            booktitle={The First Workshop on Commonsense Reasoning and Knowledge Bases (CSKB) at AKBC},
+            year={2021},
+            url={https://openreview.net/forum?id=7FHnnENUG0}
+            }
+        type: inproceedings
+        title: Modeling Worlds in Text
+        booktitle: The First Workshop on Commonsense Reasoning and Knowledge Bases
+            (CSKB) at AKBC
+        year: '2021'
+        url: https://openreview.net/forum?id=7FHnnENUG0
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
+            last: Riedl
+      - id: ammanabrolu2021learning
+        bibtex: |
+            @inproceedings{ammanabrolu2021learning,
+            title={Learning Knowledge Graph-based World Models of Textual Environments},
+            author={Prithviraj Ammanabrolu and Mark Riedl},
+            booktitle={Thirty-fifth Conference on Neural Information Processing Systems},
+            year={2021},
+            url={https://arxiv.org/abs/2106.09608}
+            }
+        type: inproceedings
+        title: Learning Knowledge Graph-based World Models of Textual Environments
+        booktitle: Thirty-fifth Conference on Neural Information Processing Systems
+        year: '2021'
+        url: https://arxiv.org/abs/2106.09608
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mark
             last: Riedl
