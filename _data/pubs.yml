@@ -428,13 +428,13 @@ entries:
             title={Situated Language Learning via Interactive Narratives},
             author={Ammanabrolu, Prithviraj and Riedl, Mark O},
             journal={Patterns, Cell Press},
-            url={https://arxiv.org/abs/2103.09977},
+            url={https://www.cell.com/patterns/fulltext/S2666-3899(21)00159-8},
             year={2021}
             }
         type: article
         title: Situated Language Learning via Interactive Narratives
         journal: Patterns, Cell Press
-        url: https://arxiv.org/abs/2103.09977
+        url: https://www.cell.com/patterns/fulltext/S2666-3899(21)00159-8
         year: '2021'
         author:
         -   first: Prithviraj
@@ -465,19 +465,19 @@ entries:
         -   first: Mark
             middle: O
             last: Riedl
-      - id: ammanabrolu2021modeling
+      - id: ammanabrolu2021modelingws
         bibtex: |
-            @inproceedings{ammanabrolu2021modeling,
+            @inproceedings{ammanabrolu2021modelingws,
             title={Modeling Worlds in Text},
             author={Prithviraj Ammanabrolu and Mark Riedl},
-            booktitle={Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 1)},
+            booktitle={The First Workshop on Commonsense Reasoning and Knowledge Bases (CSKB) at AKBC},
             year={2021},
             url={https://openreview.net/forum?id=7FHnnENUG0}
             }
         type: inproceedings
         title: Modeling Worlds in Text
-        booktitle: Thirty-fifth Conference on Neural Information Processing Systems
-            Datasets and Benchmarks Track (Round 1)
+        booktitle: The First Workshop on Commonsense Reasoning and Knowledge Bases
+            (CSKB) at AKBC
         year: '2021'
         url: https://openreview.net/forum?id=7FHnnENUG0
         author:
@@ -505,19 +505,19 @@ entries:
             last: Ammanabrolu
         -   first: Mark
             last: Riedl
-      - id: ammanabrolu2021modelingws
+      - id: ammanabrolu2021modeling
         bibtex: |
-            @inproceedings{ammanabrolu2021modelingws,
+            @inproceedings{ammanabrolu2021modeling,
             title={Modeling Worlds in Text},
             author={Prithviraj Ammanabrolu and Mark Riedl},
-            booktitle={The First Workshop on Commonsense Reasoning and Knowledge Bases (CSKB) at AKBC},
+            booktitle={Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 1)},
             year={2021},
             url={https://openreview.net/forum?id=7FHnnENUG0}
             }
         type: inproceedings
         title: Modeling Worlds in Text
-        booktitle: The First Workshop on Commonsense Reasoning and Knowledge Bases
-            (CSKB) at AKBC
+        booktitle: Thirty-fifth Conference on Neural Information Processing Systems
+            Datasets and Benchmarks Track (Round 1)
         year: '2021'
         url: https://openreview.net/forum?id=7FHnnENUG0
         author:
@@ -543,4 +543,26 @@ entries:
         -   first: Prithviraj
             last: Ammanabrolu
         -   first: Mark
+            last: Riedl
+      - id: ammanabrolu2021dialogue
+        bibtex: |
+            @article{ammanabrolu2021dialogue,
+            title={Situated Dialogue Learning through Procedural Environment Generation},
+            author={Ammanabrolu, Prithviraj and Jia, Renee and Riedl, Mark O},
+            journal={arXiv preprint arXiv:2110.03262},
+            url={https://arxiv.org/abs/2110.03262},
+            year={2021}
+            }
+        type: article
+        title: Situated Dialogue Learning through Procedural Environment Generation
+        journal: arXiv preprint arXiv:2110.03262
+        url: https://arxiv.org/abs/2110.03262
+        year: '2021'
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Renee
+            last: Jia
+        -   first: Mark
+            middle: O
             last: Riedl
