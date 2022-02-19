@@ -374,3 +374,17 @@ entries:
         -   first: Mark
             middle: O
             last: Riedl
+    ammanabrolu2021inherent:
+        type: article
+        title: Inherently Explainable Reinforcement Learning in Natural Language
+        journal: arXiv preprint arXiv:2112.08907
+        url: https://arxiv.org/abs/2112.08907
+        year: '2021'
+        author:
+        -   first: Xiangyu
+            last: Peng
+        -   first: Mark
+            middle: O
+            last: Riedl
+        -   first: Prithviraj
+            last: Ammanabrolu

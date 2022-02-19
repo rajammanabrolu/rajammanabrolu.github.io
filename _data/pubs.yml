@@ -239,7 +239,7 @@ entries:
             booktitle={International Conference on Learning Representations},
             year={2020},
             url={https://openreview.net/forum?id=B1x6w0EtwH}
-            }}
+            }
         type: inproceedings
         title: Graph Constrained Reinforcement Learning for Natural Language Action
             Spaces
@@ -566,3 +566,25 @@ entries:
         -   first: Mark
             middle: O
             last: Riedl
+      - id: ammanabrolu2021inherent
+        bibtex: |
+            @article{ammanabrolu2021inherent,
+            title={Inherently Explainable Reinforcement Learning in Natural Language},
+            author={Peng, Xiangyu and Riedl, Mark O and Ammanabrolu, Prithviraj },
+            journal={arXiv preprint arXiv:2112.08907},
+            url={https://arxiv.org/abs/2112.08907},
+            year={2021}
+            }
+        type: article
+        title: Inherently Explainable Reinforcement Learning in Natural Language
+        journal: arXiv preprint arXiv:2112.08907
+        url: https://arxiv.org/abs/2112.08907
+        year: '2021'
+        author:
+        -   first: Xiangyu
+            last: Peng
+        -   first: Mark
+            middle: O
+            last: Riedl
+        -   first: Prithviraj
+            last: Ammanabrolu
