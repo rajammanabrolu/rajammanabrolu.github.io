@@ -360,20 +360,6 @@ entries:
             last: Ammanabrolu
         -   first: Mark
             last: Riedl
-    ammanabrolu2021dialogue:
-        type: article
-        title: Situated Dialogue Learning through Procedural Environment Generation
-        journal: arXiv preprint arXiv:2110.03262
-        url: https://arxiv.org/abs/2110.03262
-        year: '2021'
-        author:
-        -   first: Prithviraj
-            last: Ammanabrolu
-        -   first: Renee
-            last: Jia
-        -   first: Mark
-            middle: O
-            last: Riedl
     ammanabrolu2021inherent:
         type: article
         title: Inherently Explainable Reinforcement Learning in Natural Language
@@ -388,3 +374,17 @@ entries:
             last: Riedl
         -   first: Prithviraj
             last: Ammanabrolu
+    ammanabrolu2022dialogue:
+        type: inproceedings
+        title: Situated Dialogue Learning through Procedural Environment Generation
+        booktitle: Association for Computational Linguistics (ACL) 2022
+        url: https://arxiv.org/abs/2110.03262
+        year: '2022'
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Renee
+            last: Jia
+        -   first: Mark
+            middle: O
+            last: Riedl

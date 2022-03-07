@@ -544,28 +544,6 @@ entries:
             last: Ammanabrolu
         -   first: Mark
             last: Riedl
-      - id: ammanabrolu2021dialogue
-        bibtex: |
-            @article{ammanabrolu2021dialogue,
-            title={Situated Dialogue Learning through Procedural Environment Generation},
-            author={Ammanabrolu, Prithviraj and Jia, Renee and Riedl, Mark O},
-            journal={arXiv preprint arXiv:2110.03262},
-            url={https://arxiv.org/abs/2110.03262},
-            year={2021}
-            }
-        type: article
-        title: Situated Dialogue Learning through Procedural Environment Generation
-        journal: arXiv preprint arXiv:2110.03262
-        url: https://arxiv.org/abs/2110.03262
-        year: '2021'
-        author:
-        -   first: Prithviraj
-            last: Ammanabrolu
-        -   first: Renee
-            last: Jia
-        -   first: Mark
-            middle: O
-            last: Riedl
       - id: ammanabrolu2021inherent
         bibtex: |
             @article{ammanabrolu2021inherent,
@@ -588,3 +566,25 @@ entries:
             last: Riedl
         -   first: Prithviraj
             last: Ammanabrolu
+      - id: ammanabrolu2022dialogue
+        bibtex: |
+            @inproceedings{ammanabrolu2022dialogue,
+            title={Situated Dialogue Learning through Procedural Environment Generation},
+            author={Ammanabrolu, Prithviraj and Jia, Renee and Riedl, Mark O},
+            booktitle={Association for Computational Linguistics (ACL) 2022},
+            url={https://arxiv.org/abs/2110.03262},
+            year={2022}
+            }
+        type: inproceedings
+        title: Situated Dialogue Learning through Procedural Environment Generation
+        booktitle: Association for Computational Linguistics (ACL) 2022
+        url: https://arxiv.org/abs/2110.03262
+        year: '2022'
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Renee
+            last: Jia
+        -   first: Mark
+            middle: O
+            last: Riedl
