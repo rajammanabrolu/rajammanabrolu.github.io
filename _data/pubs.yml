@@ -571,13 +571,13 @@ entries:
             @inproceedings{ammanabrolu2022dialogue,
             title={Situated Dialogue Learning through Procedural Environment Generation},
             author={Ammanabrolu, Prithviraj and Jia, Renee and Riedl, Mark O},
-            booktitle={Association for Computational Linguistics (ACL) 2022},
+            booktitle={Association for Computational Linguistics (ACL)},
             url={https://arxiv.org/abs/2110.03262},
             year={2022}
             }
         type: inproceedings
         title: Situated Dialogue Learning through Procedural Environment Generation
-        booktitle: Association for Computational Linguistics (ACL) 2022
+        booktitle: Association for Computational Linguistics (ACL)
         url: https://arxiv.org/abs/2110.03262
         year: '2022'
         author:
