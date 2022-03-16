@@ -544,9 +544,9 @@ entries:
             last: Ammanabrolu
         -   first: Mark
             last: Riedl
-      - id: ammanabrolu2021inherent
+      - id: peng2021inherent
         bibtex: |
-            @article{ammanabrolu2021inherent,
+            @article{peng2021inherent,
             title={Inherently Explainable Reinforcement Learning in Natural Language},
             author={Peng, Xiangyu and Riedl, Mark O and Ammanabrolu, Prithviraj },
             journal={arXiv preprint arXiv:2112.08907},
@@ -588,3 +588,26 @@ entries:
         -   first: Mark
             middle: O
             last: Riedl
+      - id: wang2022scienceworld
+        bibtex: |
+            @article{wang2022scienceworld,
+            title={ScienceWorld: Is your Agent Smarter than a 5th Grader?},
+            author={Wang, Ruoyao* and Jansen, Peter* and Marc-Alexandre Côté and Ammanabrolu, Prithviraj},
+            journal={arXiv preprint arXiv:2203.07540},
+            url={https://arxiv.org/abs/2203.07540},
+            year={2022}
+            }
+        type: article
+        title: 'ScienceWorld: Is your Agent Smarter than a 5th Grader?'
+        journal: arXiv preprint arXiv:2203.07540
+        url: https://arxiv.org/abs/2203.07540
+        year: '2022'
+        author:
+        -   first: Ruoyao*
+            last: Wang
+        -   first: Peter*
+            last: Jansen
+        -   first: Marc-Alexandre
+            last: Côté
+        -   first: Prithviraj
+            last: Ammanabrolu

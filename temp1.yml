@@ -360,7 +360,7 @@ entries:
             last: Ammanabrolu
         -   first: Mark
             last: Riedl
-    ammanabrolu2021inherent:
+    peng2021inherent:
         type: article
         title: Inherently Explainable Reinforcement Learning in Natural Language
         journal: arXiv preprint arXiv:2112.08907
@@ -388,3 +388,18 @@ entries:
         -   first: Mark
             middle: O
             last: Riedl
+    wang2022scienceworld:
+        type: article
+        title: 'ScienceWorld: Is your Agent Smarter than a 5th Grader?'
+        journal: arXiv preprint arXiv:2203.07540
+        url: https://arxiv.org/abs/2203.07540
+        year: '2022'
+        author:
+        -   first: Ruoyao*
+            last: Wang
+        -   first: Peter*
+            last: Jansen
+        -   first: Marc-Alexandre
+            last: Côté
+        -   first: Prithviraj
+            last: Ammanabrolu
