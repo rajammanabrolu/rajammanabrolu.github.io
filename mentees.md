@@ -4,8 +4,8 @@ title: Collabs
 
 ---
 
-# Mentees
-I am fortunate to have had a chance to work with and help advise a very talented group of people on research projects.
+# Mentees and Collaborators
+I am fortunate to have had a chance to work with and help advise an amazingly talented group of people on research projects.
 
 **PhD Students**
 

@@ -611,3 +611,29 @@ entries:
             last: Côté
         -   first: Prithviraj
             last: Ammanabrolu
+      - id: ammanabrolu2022aligning
+        bibtex: |
+            @inproceedings{ammanabrolu2022aligning,
+            title={Situated Dialogue Learning through Procedural Environment Generation},
+            author={Ammanabrolu, Prithviraj and Jiang, Liwei and Sap, Maarten and Hajizhirzi, Hannaneh and Choi, Yejin},
+            booktitle={North American Chapter of the Association for Computational Linguistics (NAACL)},
+            url={https://arxiv.org/abs/2205.01975},
+            year={2022}
+            }
+        type: inproceedings
+        title: Situated Dialogue Learning through Procedural Environment Generation
+        booktitle: North American Chapter of the Association for Computational Linguistics
+            (NAACL)
+        url: https://arxiv.org/abs/2205.01975
+        year: '2022'
+        author:
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Liwei
+            last: Jiang
+        -   first: Maarten
+            last: Sap
+        -   first: Hannaneh
+            last: Hajizhirzi
+        -   first: Yejin
+            last: Choi
