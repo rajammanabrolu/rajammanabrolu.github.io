@@ -614,14 +614,14 @@ entries:
       - id: ammanabrolu2022aligning
         bibtex: |
             @inproceedings{ammanabrolu2022aligning,
-            title={Situated Dialogue Learning through Procedural Environment Generation},
+            title={Aligning to Social Norms and Values in Interactive Narratives},
             author={Ammanabrolu, Prithviraj and Jiang, Liwei and Sap, Maarten and Hajizhirzi, Hannaneh and Choi, Yejin},
             booktitle={North American Chapter of the Association for Computational Linguistics (NAACL)},
             url={https://arxiv.org/abs/2205.01975},
             year={2022}
             }
         type: inproceedings
-        title: Situated Dialogue Learning through Procedural Environment Generation
+        title: Aligning to Social Norms and Values in Interactive Narratives
         booktitle: North American Chapter of the Association for Computational Linguistics
             (NAACL)
         url: https://arxiv.org/abs/2205.01975

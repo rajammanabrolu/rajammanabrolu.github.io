@@ -405,7 +405,7 @@ entries:
             last: Ammanabrolu
       - id: ammanabrolu2022aligning
         type: inproceedings
-        title: Situated Dialogue Learning through Procedural Environment Generation
+        title: Aligning to Social Norms and Values in Interactive Narratives
         booktitle: North American Chapter of the Association for Computational Linguistics
             (NAACL)
         url: https://arxiv.org/abs/2205.01975
