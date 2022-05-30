@@ -677,3 +677,34 @@ entries:
             last: Kim
         -   first: Yejin
             last: Choi
+      - id: lu2022quark
+        bibtex: |
+            @article{lu2022quark,
+            title={Quark: Controllable Text Generation with Reinforced Unlearning},
+            author={Ximing Lu and Sean Welleck and Liwei Jiang and Jack Hessel and Lianhui Qin and Peter West and Prithviraj Ammanabrolu and Yejin Choi},
+            journal={arXiv preprint arXiv:2205.13636},
+            url={https://arxiv.org/abs/2205.13636},
+            year={2022}
+            }
+        type: article
+        title: 'Quark: Controllable Text Generation with Reinforced Unlearning'
+        journal: arXiv preprint arXiv:2205.13636
+        url: https://arxiv.org/abs/2205.13636
+        year: '2022'
+        author:
+        -   first: Ximing
+            last: Lu
+        -   first: Sean
+            last: Welleck
+        -   first: Liwei
+            last: Jiang
+        -   first: Jack
+            last: Hessel
+        -   first: Lianhui
+            last: Qin
+        -   first: Peter
+            last: West
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Yejin
+            last: Choi
