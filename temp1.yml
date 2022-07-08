@@ -475,3 +475,24 @@ entries:
             last: Ammanabrolu
         -   first: Yejin
             last: Choi
+    wu2022inscit:
+        type: article
+        title: 'INSCIT: Information-Seeking Conversations with Mixed-Initiative Interactions'
+        journal: arXiv preprint arXiv:2207.00746
+        url: https://arxiv.org/abs/2207.00746
+        year: '2022'
+        author:
+        -   first: Zeqiu
+            last: Wu
+        -   first: Ryu
+            last: Parish
+        -   first: Hao
+            last: Cheng
+        -   first: Sewon
+            last: Min
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Mari
+            last: Ostendorf
+        -   first: Hannaneh
+            last: Hajishirzi
