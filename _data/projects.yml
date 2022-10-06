@@ -1,5 +1,17 @@
-- name: Operating in Textual Worlds
+- name: Learning from Feedback and Aligning to Human Preferences
   description: >
+    The ultimate aim of language technology is to interact with humans.
+    However, most such systems are trained without direct signals of human preference, with supervised target strings serving as (a sometimes crude) proxy. This work focuses on using reinforcement learning to interact and align to human preferences.
+  pubs: 
+    - id: Ramamurthy2022IsRL
+      context: To facilitate research in this area, we release a library RL4LMs, a benchmark GRUE for NLP tasks paired with human preference rewards, and a novel RL algorithm NLPO for language in large action spaces (https://rl4lms.apps.allenai.org/).
+    - id: ammanabrolu2022aligning
+      context: We focus on creating agents that act in alignment with socially beneficial norms and values in interactive textual worlds by introducing the GALAD agent that uses the social commonsense knowledge present in specially trained language models to contextually restrict its action space to only those actions that are aligned with socially beneficial values.  
+    - id: wu2022inscit
+      context: We release a benchmark and models for teaching agents when and how to take the initiative to ask humans for clarifying information when engaged in a conversation.  
+- name: Grounding Language in Textual Worlds
+  description: >
+    I study **Interactive Narrative** games : *partially observable* simulations in which an agent interacts with the world through natural language---"perceiving", "acting upon", "and talking to" the world using textual descriptions, commands, and dialogue.
     These games are usually structured as puzzles or quests with long-term dependencies in which a player must complete a sequence of actions to succeed. Operating in these worlds requires an agent to reason about partially observable worlds in a combinatorially-sized state-action spaces. These works focus on the use of knowledge graphs to aid in these challenges.
   pubs: 
     - id: hausknecht2020interactive

@@ -546,28 +546,6 @@ entries:
             last: Ammanabrolu
         -   first: Mark
             last: Riedl
-      - id: peng2021inherent
-        bibtex: |
-            @article{peng2021inherent,
-            title={Inherently Explainable Reinforcement Learning in Natural Language},
-            author={Peng, Xiangyu and Riedl, Mark O and Ammanabrolu, Prithviraj },
-            journal={arXiv preprint arXiv:2112.08907},
-            url={https://arxiv.org/abs/2112.08907},
-            year={2021}
-            }
-        type: article
-        title: Inherently Explainable Reinforcement Learning in Natural Language
-        journal: arXiv preprint arXiv:2112.08907
-        url: https://arxiv.org/abs/2112.08907
-        year: '2021'
-        author:
-        -   first: Xiangyu
-            last: Peng
-        -   first: Mark
-            middle: O
-            last: Riedl
-        -   first: Prithviraj
-            last: Ammanabrolu
       - id: ammanabrolu2022dialogue
         bibtex: |
             @inproceedings{ammanabrolu2022dialogue,
@@ -679,16 +657,16 @@ entries:
             last: Choi
       - id: lu2022quark
         bibtex: |
-            @article{lu2022quark,
+            @inproceedings{lu2022quark,
             title={Quark: Controllable Text Generation with Reinforced Unlearning},
             author={Ximing Lu and Sean Welleck and Liwei Jiang and Jack Hessel and Lianhui Qin and Peter West and Prithviraj Ammanabrolu and Yejin Choi},
-            journal={arXiv preprint arXiv:2205.13636},
+            journal={NeurIPS 2022},
             url={https://arxiv.org/abs/2205.13636},
             year={2022}
             }
-        type: article
+        type: inproceedings
         title: 'Quark: Controllable Text Generation with Reinforced Unlearning'
-        journal: arXiv preprint arXiv:2205.13636
+        journal: NeurIPS 2022
         url: https://arxiv.org/abs/2205.13636
         year: '2022'
         author:
@@ -708,6 +686,28 @@ entries:
             last: Ammanabrolu
         -   first: Yejin
             last: Choi
+      - id: peng2022inherent
+        bibtex: |
+            @inproceedings{peng2022inherent,
+            title={Inherently Explainable Reinforcement Learning in Natural Language},
+            author={Peng, Xiangyu and Riedl, Mark O and Ammanabrolu, Prithviraj },
+            journal={NeurIPS 2022},
+            url={https://arxiv.org/abs/2112.08907},
+            year={2022}
+            }
+        type: inproceedings
+        title: Inherently Explainable Reinforcement Learning in Natural Language
+        journal: NeurIPS 2022
+        url: https://arxiv.org/abs/2112.08907
+        year: '2022'
+        author:
+        -   first: Xiangyu
+            last: Peng
+        -   first: Mark
+            middle: O
+            last: Riedl
+        -   first: Prithviraj
+            last: Ammanabrolu
       - id: wu2022inscit
         bibtex: |
             @article{wu2022inscit,
@@ -737,3 +737,36 @@ entries:
             last: Ostendorf
         -   first: Hannaneh
             last: Hajishirzi
+      - id: Ramamurthy2022IsRL
+        bibtex: |
+            @inproceedings{Ramamurthy2022IsRL,
+            title={Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization},
+            author={Rajkumar Ramamurthy and Prithviraj Ammanabrolu and Kiant{\'e} Brantley and Jack Hessel and Rafet Sifa and Christian Bauckhage and Hannaneh Hajishirzi and Yejin Choi},
+            journal={arXiv preprint arXiv:2210.01241},
+            url={https://arxiv.org/abs/2210.01241},
+            year={2022}
+            }
+        type: inproceedings
+        title: 'Is Reinforcement Learning (Not) for Natural Language Processing?:
+            Benchmarks, Baselines, and Building Blocks for Natural Language Policy
+            Optimization'
+        journal: arXiv preprint arXiv:2210.01241
+        url: https://arxiv.org/abs/2210.01241
+        year: '2022'
+        author:
+        -   first: Rajkumar
+            last: Ramamurthy
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Kiant'e
+            last: Brantley
+        -   first: Jack
+            last: Hessel
+        -   first: Rafet
+            last: Sifa
+        -   first: Christian
+            last: Bauckhage
+        -   first: Hannaneh
+            last: Hajishirzi
+        -   first: Yejin
+            last: Choi

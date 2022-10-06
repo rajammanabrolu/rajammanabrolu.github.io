@@ -361,20 +361,6 @@ entries:
             last: Ammanabrolu
         -   first: Mark
             last: Riedl
-    peng2021inherent:
-        type: article
-        title: Inherently Explainable Reinforcement Learning in Natural Language
-        journal: arXiv preprint arXiv:2112.08907
-        url: https://arxiv.org/abs/2112.08907
-        year: '2021'
-        author:
-        -   first: Xiangyu
-            last: Peng
-        -   first: Mark
-            middle: O
-            last: Riedl
-        -   first: Prithviraj
-            last: Ammanabrolu
     ammanabrolu2022dialogue:
         type: inproceedings
         title: Situated Dialogue Learning through Procedural Environment Generation
@@ -453,9 +439,9 @@ entries:
         -   first: Yejin
             last: Choi
     lu2022quark:
-        type: article
+        type: inproceedings
         title: 'Quark: Controllable Text Generation with Reinforced Unlearning'
-        journal: arXiv preprint arXiv:2205.13636
+        journal: NeurIPS 2022
         url: https://arxiv.org/abs/2205.13636
         year: '2022'
         author:
@@ -475,6 +461,20 @@ entries:
             last: Ammanabrolu
         -   first: Yejin
             last: Choi
+    peng2022inherent:
+        type: inproceedings
+        title: Inherently Explainable Reinforcement Learning in Natural Language
+        journal: NeurIPS 2022
+        url: https://arxiv.org/abs/2112.08907
+        year: '2022'
+        author:
+        -   first: Xiangyu
+            last: Peng
+        -   first: Mark
+            middle: O
+            last: Riedl
+        -   first: Prithviraj
+            last: Ammanabrolu
     wu2022inscit:
         type: article
         title: 'INSCIT: Information-Seeking Conversations with Mixed-Initiative Interactions'
@@ -496,3 +496,28 @@ entries:
             last: Ostendorf
         -   first: Hannaneh
             last: Hajishirzi
+    Ramamurthy2022IsRL:
+        type: inproceedings
+        title: 'Is Reinforcement Learning (Not) for Natural Language Processing?:
+            Benchmarks, Baselines, and Building Blocks for Natural Language Policy
+            Optimization'
+        journal: arXiv preprint arXiv:2210.01241
+        url: https://arxiv.org/abs/2210.01241
+        year: '2022'
+        author:
+        -   first: Rajkumar
+            last: Ramamurthy
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Kiant{\'e}
+            last: Brantley
+        -   first: Jack
+            last: Hessel
+        -   first: Rafet
+            last: Sifa
+        -   first: Christian
+            last: Bauckhage
+        -   first: Hannaneh
+            last: Hajishirzi
+        -   first: Yejin
+            last: Choi
