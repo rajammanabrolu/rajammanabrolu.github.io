@@ -5,9 +5,9 @@ classes: wide
 toc: true
 
 ---
-I study **Interactive Narrative** games : *partially observable* simulations in which an agent interacts with the world through natural language---"perceiving", "acting upon", "and talking to" the world using textual descriptions, commands, and dialogue.
-They provide tractable, situated environments in which to explore highly complex interactive grounded language learning without the complications that arise when modeling physical motor control and vision---situations that voice assistants such as Siri or Alexa might find themselves in when improvising responses.
-My work focuses imbuing agents with the priors required to not only operate, both act and speak, in such worlds, but to create them, worlds and stories, as well.
+
+I primarily work on grounding language in situated environments to explore highly complex interactive grounded language learning without the complications that arise when modeling physical motor control and vision---situations that voice assistants such as Siri or Alexa might find themselves in when improvising responses.
+My work focuses imbuing agents with the priors required to not only operate, both act and speak, in interactive worlds, but to create them.
 
 <script type="text/javascript" src="toggle.js"></script>
 
