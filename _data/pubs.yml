@@ -570,16 +570,16 @@ entries:
             last: Riedl
       - id: wang2022scienceworld
         bibtex: |
-            @article{wang2022scienceworld,
+            @inproceedings{wang2022scienceworld,
             title={ScienceWorld: Is your Agent Smarter than a 5th Grader?},
             author={Wang*, Ruoyao and Jansen*, Peter and Marc-Alexandre Côté and Ammanabrolu, Prithviraj},
-            journal={arXiv preprint arXiv:2203.07540},
+            journal={EMNLP 2022},
             url={https://arxiv.org/abs/2203.07540},
             year={2022}
             }
-        type: article
+        type: inproceedings
         title: 'ScienceWorld: Is your Agent Smarter than a 5th Grader?'
-        journal: arXiv preprint arXiv:2203.07540
+        journal: EMNLP 2022
         url: https://arxiv.org/abs/2203.07540
         year: '2022'
         author:
@@ -660,13 +660,13 @@ entries:
             @inproceedings{lu2022quark,
             title={Quark: Controllable Text Generation with Reinforced Unlearning},
             author={Ximing Lu and Sean Welleck and Liwei Jiang and Jack Hessel and Lianhui Qin and Peter West and Prithviraj Ammanabrolu and Yejin Choi},
-            journal={NeurIPS 2022},
+            booktitle={NeurIPS 2022},
             url={https://arxiv.org/abs/2205.13636},
             year={2022}
             }
         type: inproceedings
         title: 'Quark: Controllable Text Generation with Reinforced Unlearning'
-        journal: NeurIPS 2022
+        booktitle: NeurIPS 2022
         url: https://arxiv.org/abs/2205.13636
         year: '2022'
         author:
@@ -691,13 +691,13 @@ entries:
             @inproceedings{peng2022inherent,
             title={Inherently Explainable Reinforcement Learning in Natural Language},
             author={Peng, Xiangyu and Riedl, Mark O and Ammanabrolu, Prithviraj },
-            journal={NeurIPS 2022},
+            booktitle={NeurIPS 2022},
             url={https://arxiv.org/abs/2112.08907},
             year={2022}
             }
         type: inproceedings
         title: Inherently Explainable Reinforcement Learning in Natural Language
-        journal: NeurIPS 2022
+        booktitle: NeurIPS 2022
         url: https://arxiv.org/abs/2112.08907
         year: '2022'
         author:
@@ -713,13 +713,13 @@ entries:
             @article{wu2022inscit,
             title={INSCIT: Information-Seeking Conversations with Mixed-Initiative Interactions},
             author={Wu, Zeqiu and Parish, Ryu and Cheng, Hao and Min, Sewon and Ammanabrolu, Prithviraj and Ostendorf, Mari and Hajishirzi, Hannaneh},
-            journal={arXiv preprint arXiv:2207.00746},
+            journal={TACL},
             url={https://arxiv.org/abs/2207.00746},
             year={2022}
             }
         type: article
         title: 'INSCIT: Information-Seeking Conversations with Mixed-Initiative Interactions'
-        journal: arXiv preprint arXiv:2207.00746
+        journal: TACL
         url: https://arxiv.org/abs/2207.00746
         year: '2022'
         author:
