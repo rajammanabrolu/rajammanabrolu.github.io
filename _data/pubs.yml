@@ -512,14 +512,14 @@ entries:
             @inproceedings{ammanabrolu2021modeling,
             title={Modeling Worlds in Text},
             author={Prithviraj Ammanabrolu and Mark Riedl},
-            booktitle={Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 1)},
+            booktitle={Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track (Round 1)},
             year={2021},
             url={https://openreview.net/forum?id=7FHnnENUG0}
             }
         type: inproceedings
         title: Modeling Worlds in Text
         booktitle: Thirty-fifth Conference on Neural Information Processing Systems
-            Datasets and Benchmarks Track (Round 1)
+            (NeurIPS) Datasets and Benchmarks Track (Round 1)
         year: '2021'
         url: https://openreview.net/forum?id=7FHnnENUG0
         author:
@@ -532,13 +532,14 @@ entries:
             @inproceedings{ammanabrolu2021learning,
             title={Learning Knowledge Graph-based World Models of Textual Environments},
             author={Prithviraj Ammanabrolu and Mark Riedl},
-            booktitle={Thirty-fifth Conference on Neural Information Processing Systems},
+            booktitle={Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)},
             year={2021},
             url={https://arxiv.org/abs/2106.09608}
             }
         type: inproceedings
         title: Learning Knowledge Graph-based World Models of Textual Environments
         booktitle: Thirty-fifth Conference on Neural Information Processing Systems
+            (NeurIPS)
         year: '2021'
         url: https://arxiv.org/abs/2106.09608
         author:
@@ -660,13 +661,14 @@ entries:
             @inproceedings{lu2022quark,
             title={Quark: Controllable Text Generation with Reinforced Unlearning},
             author={Ximing Lu and Sean Welleck and Liwei Jiang and Jack Hessel and Lianhui Qin and Peter West and Prithviraj Ammanabrolu and Yejin Choi},
-            booktitle={NeurIPS 2022},
+            booktitle={Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)},
             url={https://arxiv.org/abs/2205.13636},
             year={2022}
             }
         type: inproceedings
         title: 'Quark: Controllable Text Generation with Reinforced Unlearning'
-        booktitle: NeurIPS 2022
+        booktitle: Thirty-sixth Conference on Neural Information Processing Systems
+            (NeurIPS)
         url: https://arxiv.org/abs/2205.13636
         year: '2022'
         author:
@@ -691,13 +693,14 @@ entries:
             @inproceedings{peng2022inherent,
             title={Inherently Explainable Reinforcement Learning in Natural Language},
             author={Peng, Xiangyu and Riedl, Mark O and Ammanabrolu, Prithviraj },
-            booktitle={NeurIPS 2022},
+            booktitle={Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)},
             url={https://arxiv.org/abs/2112.08907},
             year={2022}
             }
         type: inproceedings
         title: Inherently Explainable Reinforcement Learning in Natural Language
-        booktitle: NeurIPS 2022
+        booktitle: Thirty-sixth Conference on Neural Information Processing Systems
+            (NeurIPS)
         url: https://arxiv.org/abs/2112.08907
         year: '2022'
         author:

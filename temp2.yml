@@ -342,7 +342,7 @@ entries:
         type: inproceedings
         title: Modeling Worlds in Text
         booktitle: Thirty-fifth Conference on Neural Information Processing Systems
-            Datasets and Benchmarks Track (Round 1)
+            (NeurIPS) Datasets and Benchmarks Track (Round 1)
         year: '2021'
         url: https://openreview.net/forum?id=7FHnnENUG0
         author:
@@ -354,6 +354,7 @@ entries:
         type: inproceedings
         title: Learning Knowledge Graph-based World Models of Textual Environments
         booktitle: Thirty-fifth Conference on Neural Information Processing Systems
+            (NeurIPS)
         year: '2021'
         url: https://arxiv.org/abs/2106.09608
         author:
@@ -441,7 +442,8 @@ entries:
       - id: lu2022quark
         type: inproceedings
         title: 'Quark: Controllable Text Generation with Reinforced Unlearning'
-        booktitle: NeurIPS 2022
+        booktitle: Thirty-sixth Conference on Neural Information Processing Systems
+            (NeurIPS)
         url: https://arxiv.org/abs/2205.13636
         year: '2022'
         author:
@@ -464,7 +466,8 @@ entries:
       - id: peng2022inherent
         type: inproceedings
         title: Inherently Explainable Reinforcement Learning in Natural Language
-        booktitle: NeurIPS 2022
+        booktitle: Thirty-sixth Conference on Neural Information Processing Systems
+            (NeurIPS)
         url: https://arxiv.org/abs/2112.08907
         year: '2022'
         author:
