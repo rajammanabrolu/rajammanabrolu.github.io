@@ -10,10 +10,14 @@ import codecs
 
 ### Store a hash table of index: bib entry
 bibs_hash = {}
-
+del_keys = ['code', 'website', 'blog', 'media', 'talk']
 ### Get all the bibs into the bib_hash
 bib = ''
 for line in open(sys.argv[1], 'r'):
+   # clean up bibtex
+   for k in del_keys:
+      if k in line:
+         line = ''
    if '@' in line:
       # Ending a previous bib and starting a new one
       if len(bib) > 0:

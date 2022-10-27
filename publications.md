@@ -40,14 +40,14 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 	color: white;
 	border: 1px solid blue;
 	text-decoration: none;
-	text-decoration-color: black;
+	text-decoration-color: white;
 	border-radius: 2px;
 }
 .journal {
 	font-size: small;
-	background-color: green;
-	color: white;
-	border: 1px solid green;
+	background-color: limegreen;
+	color: black;
+	border: 1px solid limegreen;
 	text-decoration: none;
 	text-decoration-color: white;
 	border-radius: 2px;
@@ -66,6 +66,51 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 	background-color: purple;
 	color: white;
 	border: 1px solid purple;
+	text-decoration: none;
+	text-decoration-color: white;
+	border-radius: 2px;
+}
+.website {
+	font-size: small;
+	background-color: sienna;
+	color: white;
+	border: 1px solid sienna;
+	text-decoration: none;
+	text-decoration-color: white;
+	border-radius: 2px;
+}
+.code {
+	font-size: small;
+	background-color: yellow;
+	color: black;
+	border: 1px solid yellow;
+	text-decoration: none;
+	text-decoration-color: white;
+	border-radius: 2px;
+}
+.talk {
+	font-size: small;
+	background-color: hotpink;
+	color: black;
+	border: 1px solid hotpink;
+	text-decoration: none;
+	text-decoration-color: white;
+	border-radius: 2px;
+}
+.media {
+	font-size: small;
+	background-color: hotpink;
+	color: black;
+	border: 1px solid hotpink;
+	text-decoration: none;
+	text-decoration-color: white;
+	border-radius: 2px;
+}
+.blog {
+	font-size: small;
+	background-color: sandybrown;
+	color: black;
+	border: 1px solid sandybrown;
 	text-decoration: none;
 	text-decoration-color: white;
 	border-radius: 2px;
@@ -106,11 +151,16 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 	    {{ x.volume }} 
 	    ({{ x.year }})</em>.<br>
 	    {% if x.url %}
-	    	<a href="{{x.url}}">{% if x.url contains "arxiv" %}<span class="arxiv">arXiv</span>{% elsif x.url contains "openreview" %}<span class="openreview">OpenReview</span>{% elsif x.url contains "dl.acm.org" %}<span class="link">ACM/DL</span>{% elsif x.url contains "ieee" %}<span class="link">IEEE</span>{% elsif x.url contains ".pdf" %}<span class="pdf">PDF</span>{% else %}<span class="link">Link</span>{% endif %}</a>
+	    	<a href="{{x.url}}">{% if x.url contains "arxiv" %}<span class="arxiv">arXiv</span>{% elsif x.url contains "openreview" %}<span class="openreview">OpenReview</span>{% elsif x.url contains "dl.acm.org" %}<span class="link">ACM/DL</span>{% elsif x.url contains "ieee" %}<span class="link">IEEE</span>{% elsif x.url contains ".pdf" %}<span class="pdf">PDF</span>{% else %}<span class="link">Paper Link</span>{% endif %}</a>
 	    {% endif %}
 	    {% if x.journal and x.volume %}<span class="journal">Journal</span>{% endif %}
 	    {% if x.booktitle %}{% if x.booktitle contains "Workshop" %}<span class="workshop">Workshop</span>{% else%}<span class="conference">Conference</span>{% endif %}{% endif %}
 	    {% if x.bibtex %}
+	    {% if x.website %}<span class="website">Project Website</span>{% endif %}
+	    {% if x.code %}<span class="code">Code</span>{% endif %}
+	    {% if x.blog %}<span class="blog">Blog</span>{% endif %}
+	    {% if x.media %}<span class="media">Media Coverage</span>{% endif %}
+	    {% if x.talk %}<span class="talk">Talk</span>{% endif %}
 	    <a onclick="toggleBibtex({{ x.id }});"><span class="bibbutton">bibtex</span></a><br>
 	    <div class="bibtex" id="{{ x.id }}" style="display: none;">{{ x.bibtex }}</div>
 	    {% endif %}
