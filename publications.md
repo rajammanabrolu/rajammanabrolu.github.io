@@ -151,6 +151,7 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 	    {{ x.volume }} 
 	    ({{ x.year }})</em>.<br>
 	    {% if x.journal and x.volume %}<span class="journal">Journal</span>{% endif %}
+	    {% if x.journal contains "preprint" %}<span class="arxiv">Preprint</span>{% endif %}
 	    {% if x.booktitle %}{% if x.booktitle contains "Workshop" %}<span class="workshop">Workshop</span>{% else%}<span class="conference">Conference</span>{% endif %}{% endif %}
 	    {% if x.bibtex %}
 	    {% if x.url %}<a href="{{x.url}}"><span class="link">Paper Link</span></a>{% endif %}
