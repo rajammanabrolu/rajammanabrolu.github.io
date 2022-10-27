@@ -499,8 +499,23 @@ entries:
             last: Ostendorf
         -   first: Hannaneh
             last: Hajishirzi
-      - id: Ramamurthy2022IsRL
+      - id: wang2022behavior
         type: inproceedings
+        title: Behavior Cloned Transformers are Neurosymbolic Reasoners
+        journal: arXiv preprint arXiv:2210.07382
+        url: https://arxiv.org/abs/2210.07382
+        year: '2022'
+        author:
+        -   first: Ruoyao
+            last: Wang*
+        -   first: Peter
+            last: Jansen*
+        -   first: Marc-Alexandre
+            last: Côté
+        -   first: Prithviraj
+            last: Ammanabrolu
+      - id: Ramamurthy2022IsRL
+        type: article
         title: 'Is Reinforcement Learning (Not) for Natural Language Processing?:
             Benchmarks, Baselines, and Building Blocks for Natural Language Policy
             Optimization'

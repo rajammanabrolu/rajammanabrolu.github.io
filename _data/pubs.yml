@@ -740,16 +740,39 @@ entries:
             last: Ostendorf
         -   first: Hannaneh
             last: Hajishirzi
+      - id: wang2022behavior
+        bibtex: |
+            @inproceedings{wang2022behavior,
+            title={Behavior Cloned Transformers are Neurosymbolic Reasoners},
+            author={Wang*, Ruoyao and Jansen*, Peter and Marc-Alexandre Côté and Ammanabrolu, Prithviraj},
+            journal={arXiv preprint arXiv:2210.07382},
+            url={https://arxiv.org/abs/2210.07382},
+            year={2022}
+            }
+        type: inproceedings
+        title: Behavior Cloned Transformers are Neurosymbolic Reasoners
+        journal: arXiv preprint arXiv:2210.07382
+        url: https://arxiv.org/abs/2210.07382
+        year: '2022'
+        author:
+        -   first: Ruoyao
+            last: Wang*
+        -   first: Peter
+            last: Jansen*
+        -   first: Marc-Alexandre
+            last: Côté
+        -   first: Prithviraj
+            last: Ammanabrolu
       - id: Ramamurthy2022IsRL
         bibtex: |
-            @inproceedings{Ramamurthy2022IsRL,
+            @article{Ramamurthy2022IsRL,
             title={Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization},
             author={Rajkumar Ramamurthy and Prithviraj Ammanabrolu and Kiant{\'e} Brantley and Jack Hessel and Rafet Sifa and Christian Bauckhage and Hannaneh Hajishirzi and Yejin Choi},
             journal={arXiv preprint arXiv:2210.01241},
             url={https://arxiv.org/abs/2210.01241},
             year={2022}
             }
-        type: inproceedings
+        type: article
         title: 'Is Reinforcement Learning (Not) for Natural Language Processing?:
             Benchmarks, Baselines, and Building Blocks for Natural Language Policy
             Optimization'
