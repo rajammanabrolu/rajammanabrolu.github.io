@@ -396,9 +396,11 @@ entries:
       - id: wang2022scienceworld
         type: inproceedings
         title: 'ScienceWorld: Is your Agent Smarter than a 5th Grader?'
-        journal: Empirical Methods in Natural Language Processing (EMNLP)
+        booktitle: Empirical Methods in Natural Language Processing (EMNLP)
         url: https://arxiv.org/abs/2203.07540
         year: '2022'
+        website: https://sciworld.apps.allenai.org/
+        code: https://github.com/allenai/ScienceWorld
         author:
         -   first: Ruoyao
             last: Wang*
@@ -415,8 +417,6 @@ entries:
             (NAACL)
         url: https://arxiv.org/abs/2205.01975
         year: '2022'
-        website: https://sciworld.apps.allenai.org/
-        code: https://github.com/allenai/ScienceWorld
         author:
         -   first: Prithviraj
             last: Ammanabrolu
