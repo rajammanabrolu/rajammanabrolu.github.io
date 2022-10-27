@@ -150,17 +150,17 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 	    <em>{{ x.journal }}{{ x.booktitle }} 
 	    {{ x.volume }} 
 	    ({{ x.year }})</em>.<br>
-	    {% if x.url %}
-	    	<a href="{{x.url}}">{% if x.url contains "arxiv" %}<span class="arxiv">arXiv</span>{% elsif x.url contains "openreview" %}<span class="openreview">OpenReview</span>{% elsif x.url contains "dl.acm.org" %}<span class="link">ACM/DL</span>{% elsif x.url contains "ieee" %}<span class="link">IEEE</span>{% elsif x.url contains ".pdf" %}<span class="pdf">PDF</span>{% else %}<span class="link">Paper Link</span>{% endif %}</a>
-	    {% endif %}
 	    {% if x.journal and x.volume %}<span class="journal">Journal</span>{% endif %}
 	    {% if x.booktitle %}{% if x.booktitle contains "Workshop" %}<span class="workshop">Workshop</span>{% else%}<span class="conference">Conference</span>{% endif %}{% endif %}
-	    {% if x.bibtex %}
-	    {% if x.website %}<span class="website">Project Website</span>{% endif %}
-	    {% if x.code %}<span class="code">Code</span>{% endif %}
-	    {% if x.blog %}<span class="blog">Blog</span>{% endif %}
-	    {% if x.media %}<span class="media">Media Coverage</span>{% endif %}
-	    {% if x.talk %}<span class="talk">Talk</span>{% endif %}
+	    {% if x.url %}
+	    	<a href="{{x.url}}"><span class="link">Paper Link</span></a>
+	    	<!--<a href="{{x.url}}">{% if x.url contains "arxiv" %}<span class="arxiv">arXiv</span>{% elsif x.url contains "openreview" %}<span class="openreview">OpenReview</span>{% elsif x.url contains "dl.acm.org" %}<span class="link">ACM/DL</span>{% elsif x.url contains "ieee" %}<span class="link">IEEE</span>{% elsif x.url contains ".pdf" %}<span class="pdf">PDF</span>{% else %}<span class="link">Paper Link</span>{% endif %}</a>-->
+	    {% endif %}
+	    {% if x.website %}<a href="{{x.website}}"><span class="website">Project Website</span></a>{% endif %}
+	    {% if x.code %}<a href="{{x.code}}"><span class="code">Code</span></a>{% endif %}
+	    {% if x.blog %}<a href="{{x.blog}}"><span class="blog">Blog</span></a>{% endif %}
+	    {% if x.media %}<a href="{{x.media}}"><span class="media">Media Coverage</span></a>{% endif %}
+	    {% if x.talk %}<a href="{{x.talk}}"><span class="talk">Talk</span></a>{% endif %}
 	    <a onclick="toggleBibtex({{ x.id }});"><span class="bibbutton">bibtex</span></a><br>
 	    <div class="bibtex" id="{{ x.id }}" style="display: none;">{{ x.bibtex }}</div>
 	    {% endif %}

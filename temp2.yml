@@ -396,7 +396,7 @@ entries:
       - id: wang2022scienceworld
         type: inproceedings
         title: 'ScienceWorld: Is your Agent Smarter than a 5th Grader?'
-        journal: EMNLP 2022
+        journal: Empirical Methods in Natural Language Processing (EMNLP)
         url: https://arxiv.org/abs/2203.07540
         year: '2022'
         author:
