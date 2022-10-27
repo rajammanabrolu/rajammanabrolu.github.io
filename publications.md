@@ -45,23 +45,23 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 }
 .journal {
 	font-size: small;
-	background-color: limegreen;
-	color: black;
-	border: 1px solid limegreen;
-	text-decoration: none;
-	text-decoration-color: white;
-	border-radius: 2px;
-}
-.conference {
-	font-size: small;
-	background-color: hotpink;
-	color: black;
-	border: 1px solid hotpink;
+	background-color: darkgreen;
+	color: white;
+	border: 1px solid darkgreen;
 	text-decoration: none;
 	text-decoration-color: white;
 	border-radius: 2px;
 }
 .workshop {
+	font-size: small;
+	background-color: darkslateblue;
+	color: white;
+	border: 1px solid darkslateblue;
+	text-decoration: none;
+	text-decoration-color: white;
+	border-radius: 2px;
+}
+.conference {
 	font-size: small;
 	background-color: purple;
 	color: white;
@@ -81,9 +81,9 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 }
 .code {
 	font-size: small;
-	background-color: yellow;
+	background-color: grey;
 	color: black;
-	border: 1px solid yellow;
+	border: 1px solid grey;
 	text-decoration: none;
 	text-decoration-color: white;
 	border-radius: 2px;
