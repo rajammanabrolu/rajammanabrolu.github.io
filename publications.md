@@ -82,7 +82,7 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
 .code {
 	font-size: small;
 	background-color: grey;
-	color: black;
+	color: white;
 	border: 1px solid grey;
 	text-decoration: none;
 	text-decoration-color: white;
