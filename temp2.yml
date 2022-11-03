@@ -547,10 +547,10 @@ entries:
         year: '2022'
         author:
         -   first: Rajkumar
-            last: Ramamurthy
+            last: Ramamurthy*
         -   first: Prithviraj
-            last: Ammanabrolu
-        -   first: Kiant'e
+            last: Ammanabrolu*
+        -   first: Kianté
             last: Brantley
         -   first: Jack
             last: Hessel

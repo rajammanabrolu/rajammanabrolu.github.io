@@ -790,7 +790,7 @@ entries:
         bibtex: |
             @article{Ramamurthy2022IsRL,
             title={Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization},
-            author={Rajkumar Ramamurthy and Prithviraj Ammanabrolu and Kiant{\'e} Brantley and Jack Hessel and Rafet Sifa and Christian Bauckhage and Hannaneh Hajishirzi and Yejin Choi},
+            author={Rajkumar Ramamurthy* and Prithviraj Ammanabrolu* and Kianté Brantley and Jack Hessel and Rafet Sifa and Christian Bauckhage and Hannaneh Hajishirzi and Yejin Choi},
             journal={arXiv preprint arXiv:2210.01241},
             url={https://arxiv.org/abs/2210.01241},
             year={2022}
@@ -806,10 +806,10 @@ entries:
         year: '2022'
         author:
         -   first: Rajkumar
-            last: Ramamurthy
+            last: Ramamurthy*
         -   first: Prithviraj
-            last: Ammanabrolu
-        -   first: Kiant'e
+            last: Ammanabrolu*
+        -   first: Kianté
             last: Brantley
         -   first: Jack
             last: Hessel
