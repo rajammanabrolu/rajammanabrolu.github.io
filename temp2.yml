@@ -283,9 +283,9 @@ entries:
             middle: Venkata
             last: Ammanabrolu
       - id: dambekodi2020playing
-        type: article
+        type: inproceedings
         title: Playing text-based games with common sense
-        journal: arXiv preprint arXiv:2012.02757
+        booktitle: 'The Second WordPlay: When Language Meets Games Workshop'
         url: https://arxiv.org/abs/2012.02757
         year: '2020'
         author:
