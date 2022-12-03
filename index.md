@@ -8,7 +8,7 @@ classes: wide
 author:
   name: "Prithviraj (Raj) Ammanabrolu"
   avatar: "/assets/images/raj.jpg"
-  bio: "**Researcher** Allen Institute for Artificial Intelligence"
+  bio: "**Postdoc Researcher** Allen Institute for Artificial Intelligence"
   links:
     - label: "Email"
       icon: "fas fa-inbox"
@@ -39,6 +39,8 @@ author:
 It reads:
 
 "Well, hello there. I'm a researcher on the [Mosaic](https://mosaic.allenai.org/) team in the [Allen Institute for AI](https://allenai.org/). I received my PhD in Computer Science from the School of Interactive Computing at the Georgia Institute of Technology, advised by Professor Mark Riedl as a research assistant at the [Entertainment Intelligence Lab](https://eilab.gatech.edu/).
+
+My CV is found [here](http://prithvirajva.com/CV.html), my list of publication [here](http://prithvirajva.com/publications.html), and projects [](http://prithvirajva.com/projects.html).
 
 I am motivated by the question of how to imbue learning agents with the ability to understand and generate contextually relevant natural language in service of achieving a goal. This work lies primarily at the intersection of **Machine Learning**, especially **Reinforcement Learning**, and **Natural Language Processing**. The core theme of my research involves creating **trustworthy and responsible language-based AI agents** that are able to: (1) interactively gather and **align to human preferences via feedback**; and (2) build and use **neurosymbolic world models** that guide the agent's actions in **grounded environments**.
 
