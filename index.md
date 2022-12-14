@@ -7,7 +7,7 @@ show_overlay_excerpt: false
 classes: wide
 author:
   name: "Prithviraj (Raj) Ammanabrolu"
-  avatar: "/assets/images/raj.jpg"
+  avatar: "/assets/images/raj3.jpg"
   bio: "**Postdoc Researcher** Allen Institute for Artificial Intelligence"
   links:
     - label: "Email"
