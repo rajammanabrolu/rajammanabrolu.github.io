@@ -562,3 +562,27 @@ entries:
             last: Hajishirzi
         -   first: Yejin
             last: Choi
+    Zhou2022AIDungeon:
+        type: article
+        title: 'An AI Dungeon Master''s Guide: Learning to Converse and Guide with
+            Intents and Theory-of-Mind in Dungeons and Dragons'
+        journal: arXiv preprint arXiv:2212.10060
+        url: https://arxiv.org/abs/2212.10060
+        year: '2022'
+        author:
+        -   first: Pei
+            last: Zhou
+        -   first: Andrew
+            last: Zhu
+        -   first: Jennifer
+            last: Hu
+        -   first: Jay
+            last: Pujara
+        -   first: Xiang
+            last: Ren
+        -   first: Chris
+            last: Callison-Burch
+        -   first: Yejin
+            last: Choi
+        -   first: Prithviraj
+            last: Ammanabrolu
