@@ -523,9 +523,10 @@ entries:
     wang2022behavior:
         type: inproceedings
         title: Behavior Cloned Transformers are Neurosymbolic Reasoners
-        journal: arXiv preprint arXiv:2210.07382
+        booktitle: European Chapter of the Association for Computational Linguistics
+            (NAACL)
         url: https://arxiv.org/abs/2210.07382
-        year: '2022'
+        year: '2023'
         author:
         -   first: Ruoyao
             last: Wang*
@@ -536,15 +537,15 @@ entries:
         -   first: Prithviraj
             last: Ammanabrolu
     Ramamurthy2022IsRL:
-        type: article
+        type: inproceedings
         title: 'Is Reinforcement Learning (Not) for Natural Language Processing?:
             Benchmarks, Baselines, and Building Blocks for Natural Language Policy
             Optimization'
-        journal: arXiv preprint arXiv:2210.01241
+        booktitle: International Conference on Learning Representations
         url: https://arxiv.org/abs/2210.01241
         website: https://rl4lms.apps.allenai.org/
         code: https://github.com/allenai/RL4LMs
-        year: '2022'
+        year: '2023'
         author:
         -   first: Rajkumar
             last: Ramamurthy*
@@ -586,3 +587,26 @@ entries:
             last: Choi
         -   first: Prithviraj
             last: Ammanabrolu
+    Nottingham2023Embodied:
+        type: article
+        title: 'Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making
+            using Language Guided World Modelling'
+        journal: arXiv preprint arXiv:2301.12050
+        url: https://arxiv.org/abs/2301.12050
+        website: https://deckardagent.github.io/
+        year: '2023'
+        author:
+        -   first: Kolby
+            last: Nottingham
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Alane
+            last: Suhr
+        -   first: Yejin
+            last: Choi
+        -   first: Hannaneh
+            last: Hajishirzi
+        -   first: Sameer
+            last: Singh
+        -   first: Roy
+            last: Fox
