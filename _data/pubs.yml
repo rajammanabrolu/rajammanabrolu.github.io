@@ -638,44 +638,6 @@ entries:
             last: Hajizhirzi
         -   first: Yejin
             last: Choi
-      - id: yu2022esper
-        bibtex: |
-            @article{yu2022esper,
-            title={Multimodal Knowledge Alignment with Reinforcement Learning},
-            author={Youngjae Yu and Jiwan Chung and Heeseung Yun and Jack Hessel and JaeSung Park and Ximing Lu and Rowan Zellers and Prithviraj Ammanabrolu and Ronan Le Bras and Gunhee Kim and Yejin Choi},
-            journal={arXiv preprint arXiv:2205.12630},
-            url={https://arxiv.org/abs/2205.12630},
-            year={2022}
-            }
-        type: article
-        title: Multimodal Knowledge Alignment with Reinforcement Learning
-        journal: arXiv preprint arXiv:2205.12630
-        url: https://arxiv.org/abs/2205.12630
-        year: '2022'
-        author:
-        -   first: Youngjae
-            last: Yu
-        -   first: Jiwan
-            last: Chung
-        -   first: Heeseung
-            last: Yun
-        -   first: Jack
-            last: Hessel
-        -   first: JaeSung
-            last: Park
-        -   first: Ximing
-            last: Lu
-        -   first: Rowan
-            last: Zellers
-        -   first: Prithviraj
-            last: Ammanabrolu
-        -   first: Ronan
-            middle: Le
-            last: Bras
-        -   first: Gunhee
-            last: Kim
-        -   first: Yejin
-            last: Choi
       - id: lu2022quark
         bibtex: |
             @inproceedings{lu2022quark,
@@ -885,3 +847,41 @@ entries:
             last: Singh
         -   first: Roy
             last: Fox
+      - id: yu2022esper
+        bibtex: |
+            @inprodeedings{yu2022esper,
+            title={Multimodal Knowledge Alignment with Reinforcement Learning},
+            author={Youngjae Yu and Jiwan Chung and Heeseung Yun and Jack Hessel and JaeSung Park and Ximing Lu and Rowan Zellers and Prithviraj Ammanabrolu and Ronan Le Bras and Gunhee Kim and Yejin Choi},
+            booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
+            url={https://arxiv.org/abs/2205.12630},
+            year={2023}
+            }
+        type: inprodeedings
+        title: Multimodal Knowledge Alignment with Reinforcement Learning
+        booktitle: Conference on Computer Vision and Pattern Recognition (CVPR)
+        url: https://arxiv.org/abs/2205.12630
+        year: '2023'
+        author:
+        -   first: Youngjae
+            last: Yu
+        -   first: Jiwan
+            last: Chung
+        -   first: Heeseung
+            last: Yun
+        -   first: Jack
+            last: Hessel
+        -   first: JaeSung
+            last: Park
+        -   first: Ximing
+            last: Lu
+        -   first: Rowan
+            last: Zellers
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Ronan
+            middle: Le
+            last: Bras
+        -   first: Gunhee
+            last: Kim
+        -   first: Yejin
+            last: Choi
