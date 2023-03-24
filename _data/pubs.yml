@@ -737,7 +737,7 @@ entries:
         type: inproceedings
         title: Behavior Cloned Transformers are Neurosymbolic Reasoners
         booktitle: European Chapter of the Association for Computational Linguistics
-            (NAACL)
+            (EACL)
         url: https://arxiv.org/abs/2210.07382
         year: '2023'
         author:
