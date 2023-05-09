@@ -494,7 +494,7 @@ entries:
         type: inproceedings
         title: Behavior Cloned Transformers are Neurosymbolic Reasoners
         booktitle: European Chapter of the Association for Computational Linguistics
-            (NAACL)
+            (EACL)
         url: https://arxiv.org/abs/2210.07382
         year: '2023'
         author:
@@ -533,55 +533,8 @@ entries:
             last: Hajishirzi
         -   first: Yejin
             last: Choi
-      - id: Zhou2022AIDungeon
-        type: article
-        title: 'An AI Dungeon Master''s Guide: Learning to Converse and Guide with
-            Intents and Theory-of-Mind in Dungeons and Dragons'
-        journal: arXiv preprint arXiv:2212.10060
-        url: https://arxiv.org/abs/2212.10060
-        year: '2022'
-        author:
-        -   first: Pei
-            last: Zhou
-        -   first: Andrew
-            last: Zhu
-        -   first: Jennifer
-            last: Hu
-        -   first: Jay
-            last: Pujara
-        -   first: Xiang
-            last: Ren
-        -   first: Chris
-            last: Callison-Burch
-        -   first: Yejin
-            last: Choi
-        -   first: Prithviraj
-            last: Ammanabrolu
-      - id: Nottingham2023Embodied
-        type: article
-        title: 'Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making
-            using Language Guided World Modelling'
-        journal: arXiv preprint arXiv:2301.12050
-        url: https://arxiv.org/abs/2301.12050
-        website: https://deckardagent.github.io/
-        year: '2023'
-        author:
-        -   first: Kolby
-            last: Nottingham
-        -   first: Prithviraj
-            last: Ammanabrolu
-        -   first: Alane
-            last: Suhr
-        -   first: Yejin
-            last: Choi
-        -   first: Hannaneh
-            last: Hajishirzi
-        -   first: Sameer
-            last: Singh
-        -   first: Roy
-            last: Fox
       - id: yu2022esper
-        type: inprodeedings
+        type: inproceedings
         title: Multimodal Knowledge Alignment with Reinforcement Learning
         booktitle: Conference on Computer Vision and Pattern Recognition (CVPR)
         url: https://arxiv.org/abs/2205.12630
@@ -610,3 +563,50 @@ entries:
             last: Kim
         -   first: Yejin
             last: Choi
+      - id: Zhou2022AIDungeon
+        type: inproceedings
+        title: 'An AI Dungeon Master''s Guide: Learning to Converse and Guide with
+            Intents and Theory-of-Mind in Dungeons and Dragons'
+        booktitle: Association for Computational Linguistics (ACL)
+        url: https://arxiv.org/abs/2212.10060
+        year: '2023'
+        author:
+        -   first: Pei
+            last: Zhou
+        -   first: Andrew
+            last: Zhu
+        -   first: Jennifer
+            last: Hu
+        -   first: Jay
+            last: Pujara
+        -   first: Xiang
+            last: Ren
+        -   first: Chris
+            last: Callison-Burch
+        -   first: Yejin
+            last: Choi
+        -   first: Prithviraj
+            last: Ammanabrolu
+      - id: Nottingham2023Embodied
+        type: inproceedings
+        title: 'Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making
+            using Language Guided World Modelling'
+        booktitle: International Conference on Machine Learning (ICML)
+        url: https://arxiv.org/abs/2301.12050
+        website: https://deckardagent.github.io/
+        year: '2023'
+        author:
+        -   first: Kolby
+            last: Nottingham
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Alane
+            last: Suhr
+        -   first: Yejin
+            last: Choi
+        -   first: Hannaneh
+            last: Hajishirzi
+        -   first: Sameer
+            last: Singh
+        -   first: Roy
+            last: Fox
