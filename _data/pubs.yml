@@ -752,17 +752,16 @@ entries:
       - id: Ramamurthy2022IsRL
         bibtex: |
             @inproceedings{Ramamurthy2022IsRL,
-            title={Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization},
+            title={Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization},
             author={Rajkumar Ramamurthy* and Prithviraj Ammanabrolu* and Kianté Brantley and Jack Hessel and Rafet Sifa and Christian Bauckhage and Hannaneh Hajishirzi and Yejin Choi},
-            booktitle={International Conference on Learning Representations},
+            booktitle={International Conference on Learning Representations (ICLR)},
             url={https://arxiv.org/abs/2210.01241},
             year={2023}
             }
         type: inproceedings
-        title: 'Is Reinforcement Learning (Not) for Natural Language Processing?:
-            Benchmarks, Baselines, and Building Blocks for Natural Language Policy
-            Optimization'
-        booktitle: International Conference on Learning Representations
+        title: 'Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks,
+            Baselines, and Building Blocks for Natural Language Policy Optimization'
+        booktitle: International Conference on Learning Representations (ICLR)
         url: https://arxiv.org/abs/2210.01241
         website: https://rl4lms.apps.allenai.org/
         code: https://github.com/allenai/RL4LMs
@@ -857,14 +856,14 @@ entries:
       - id: Nottingham2023Embodied
         bibtex: |
             @inproceedings{Nottingham2023Embodied,
-            title={Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling},
+            title={Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling},
             author={Kolby Nottingham and Prithviraj Ammanabrolu and Alane Suhr and Yejin Choi and Hannaneh Hajishirzi and Sameer Singh and Roy Fox},
             booktitle={International Conference on Machine Learning (ICML)},
             url={https://arxiv.org/abs/2301.12050},
             year={2023}
             }
         type: inproceedings
-        title: 'Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making
+        title: 'Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making
             using Language Guided World Modelling'
         booktitle: International Conference on Machine Learning (ICML)
         url: https://arxiv.org/abs/2301.12050

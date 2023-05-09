@@ -508,10 +508,9 @@ entries:
             last: Ammanabrolu
       - id: Ramamurthy2022IsRL
         type: inproceedings
-        title: 'Is Reinforcement Learning (Not) for Natural Language Processing?:
-            Benchmarks, Baselines, and Building Blocks for Natural Language Policy
-            Optimization'
-        booktitle: International Conference on Learning Representations
+        title: 'Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks,
+            Baselines, and Building Blocks for Natural Language Policy Optimization'
+        booktitle: International Conference on Learning Representations (ICLR)
         url: https://arxiv.org/abs/2210.01241
         website: https://rl4lms.apps.allenai.org/
         code: https://github.com/allenai/RL4LMs
@@ -589,7 +588,7 @@ entries:
             last: Ammanabrolu
       - id: Nottingham2023Embodied
         type: inproceedings
-        title: 'Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making
+        title: 'Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making
             using Language Guided World Modelling'
         booktitle: International Conference on Machine Learning (ICML)
         url: https://arxiv.org/abs/2301.12050
