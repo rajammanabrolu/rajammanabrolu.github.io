@@ -38,7 +38,7 @@ author:
 
 It reads:
 
-"Well, hello there. I'm a researcher on the [Mosaic](https://mosaic.allenai.org/) team in the [Allen Institute for AI](https://allenai.org/). I am an incoming Assitant Professor of Computer Science at the University of California, San Diego - recruiting PhD students in the 2023-24 admissions cycle. 
+"Well, hello there. I'm a researcher on the [Mosaic](https://mosaic.allenai.org/) team in the [Allen Institute for AI](https://allenai.org/). I am an incoming Assistant Professor of Computer Science at the University of California, San Diego - recruiting PhD students in the 2023-24 admissions cycle. 
 
 I received my PhD in Computer Science from the School of Interactive Computing at the Georgia Institute of Technology, advised by Professor Mark Riedl as a research assistant at the [Entertainment Intelligence Lab](https://eilab.gatech.edu/).
 
