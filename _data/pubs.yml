@@ -884,3 +884,127 @@ entries:
             last: Singh
         -   first: Roy
             last: Fox
+      - id: lu2023inference
+        bibtex: |
+            @article{lu2023inference,
+            title={Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning},
+            author={Ximing Lu and Faeze Brahman and Peter West and Jaehun Jang and Khyathi Chandu and Abhilasha Ravichander and Lianhui Qin and Prithviraj Ammanabrolu and Liwei Jiang and Sahana Ramnath and Nouha Dziri and Jillian Fisher and Bill Yuchen Lin and Skyler Hallinan and Xiang Ren and Sean Welleck and Yejin Choi},
+            journal={arXiv preprint arXiv:2305.15065},
+            url={https://arxiv.org/abs/2305.15065},
+            year={2023}
+            }
+        type: article
+        title: 'Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs
+            without Fine-tuning'
+        journal: arXiv preprint arXiv:2305.15065
+        url: https://arxiv.org/abs/2305.15065
+        year: '2023'
+        author:
+        -   first: Ximing
+            last: Lu
+        -   first: Faeze
+            last: Brahman
+        -   first: Peter
+            last: West
+        -   first: Jaehun
+            last: Jang
+        -   first: Khyathi
+            last: Chandu
+        -   first: Abhilasha
+            last: Ravichander
+        -   first: Lianhui
+            last: Qin
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Liwei
+            last: Jiang
+        -   first: Sahana
+            last: Ramnath
+        -   first: Nouha
+            last: Dziri
+        -   first: Jillian
+            last: Fisher
+        -   first: Bill
+            middle: Yuchen
+            last: Lin
+        -   first: Skyler
+            last: Hallinan
+        -   first: Xiang
+            last: Ren
+        -   first: Sean
+            last: Welleck
+        -   first: Yejin
+            last: Choi
+      - id: lin2023swiftsage
+        bibtex: |
+            @article{lin2023swiftsage,
+            title={SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks},
+            author={Lin, Bill Yuchen and Fu, Yicheng and Yang, Karina and Ammanabrolu, Prithviraj and Brahman, Faeze and Huang, Shiyu and Bhagavatula, Chandra and Choi, Yejin and Ren, Xiang},
+            journal={arXiv preprint arXiv:2305.17390},
+            year={2023},
+            url={https://arxiv.org/abs/2305.17390},
+            }
+        type: article
+        title: 'SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex
+            Interactive Tasks'
+        journal: arXiv preprint arXiv:2305.17390
+        year: '2023'
+        url: https://arxiv.org/abs/2305.17390
+        code: https://github.com/yuchenlin/swiftsage/
+        website: https://yuchenlin.xyz/swiftsage/
+        author:
+        -   first: Bill
+            middle: Yuchen
+            last: Lin
+        -   first: Yicheng
+            last: Fu
+        -   first: Karina
+            last: Yang
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Faeze
+            last: Brahman
+        -   first: Shiyu
+            last: Huang
+        -   first: Chandra
+            last: Bhagavatula
+        -   first: Yejin
+            last: Choi
+        -   first: Xiang
+            last: Ren
+      - id: wu2023finegrained
+        bibtex: |
+            @article{wu2023finegrained,
+            title={Fine-Grained Human Feedback Gives Better Rewards for Language Model Training},
+            author={Zeqiu Wu and Yushi Hu and Weijia Shi and Nouha Dziri and Alane Suhr and Prithviraj Ammanabrolu and Noah A. Smith and Mari Ostendorf and Hannaneh Hajishirzi},
+            journal={arXiv preprint arXiv:2306.01693},
+            year={2023},
+            url={https://arxiv.org/abs/2306.01693},
+            }
+        type: article
+        title: Fine-Grained Human Feedback Gives Better Rewards for Language Model
+            Training
+        journal: arXiv preprint arXiv:2306.01693
+        year: '2023'
+        url: https://arxiv.org/abs/2306.01693
+        website: https://finegrainedrlhf.github.io/
+        author:
+        -   first: Zeqiu
+            last: Wu
+        -   first: Yushi
+            last: Hu
+        -   first: Weijia
+            last: Shi
+        -   first: Nouha
+            last: Dziri
+        -   first: Alane
+            last: Suhr
+        -   first: Prithviraj
+            last: Ammanabrolu
+        -   first: Noah
+            middle: A.
+            last: Smith
+        -   first: Mari
+            last: Ostendorf
+        -   first: Hannaneh
+            last: Hajishirzi
