@@ -10,7 +10,7 @@ sidebar:
   - text: '<i class="fab fa-fw fa-twitter-square"></i> <a href="https://twitter.com/rajammanabrolu">@rajammanabrolu</a>'
   - text: '<i class="fas fa-inbox"></i> <a href="mailto:raja@allenai.org">raja@allenai.org</a>'
 ---
-(for a more "professional bio" see the Home tab - Tl;Dr I'm a postdoctoral researcher interested in interactive, grounded language learning (NLP + RL specifically) at AI2 and got my PhD from Georgia Tech.)
+(for a more "professional bio" see the Home tab)
 
 I am originally from Visakhapatnam in Andhra Pradesh, India. Since then, I've moved around quite a bit. I've lived in: east/south Asian places like Singapore, Hong Kong, Tokyo; middle east in Dubai; random American places like New Jersey, California, Indiana, Texas, and Georgia; and multiple places in India such as Chennai, Hyderabad, and Bangalore. I'm currently in Seattle and finding it a bit too rainy for my taste (but hey the boba tea is good).
 
