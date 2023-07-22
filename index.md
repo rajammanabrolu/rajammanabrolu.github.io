@@ -12,7 +12,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-inbox"
-      url: "mailto:raja@allenai.org"
+      url: "mailto:prithvi@ucsd.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/rajammanabrolu"
