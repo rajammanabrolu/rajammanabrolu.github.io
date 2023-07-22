@@ -8,7 +8,7 @@ sidebar:
   - text: "Allen Institute for Artificial Intelligence"
   - title: "Contact"
   - text: '<i class="fab fa-fw fa-twitter-square"></i> <a href="https://twitter.com/rajammanabrolu">@rajammanabrolu</a>'
-  - text: '<i class="fas fa-inbox"></i> <a href="mailto:raja@allenai.org">raja@allenai.org</a>'
+  - text: '<i class="fas fa-inbox"></i> <a href="mailto:prithvi@ucsd.edu">prithvi@ucsd.edu</a>'
 ---
 (for a more "professional bio" see the Home tab)
 
