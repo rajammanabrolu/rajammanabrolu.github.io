@@ -12,7 +12,7 @@ sidebar:
 ---
 (for a more "professional bio" see the Home tab)
 
-I am originally from Visakhapatnam in Andhra Pradesh, India. Since then, I've moved around quite a bit. I've lived in: east/south Asian places like Singapore, Hong Kong, Tokyo; middle east in Dubai; random American places like New Jersey, California, Indiana, Texas, and Georgia; and multiple places in India such as Chennai, Hyderabad, and Bangalore. I'm currently in Seattle and finding it a bit too rainy for my taste (but hey the boba tea is good).
+I am originally from Visakhapatnam in Andhra Pradesh, India. Since then, I've moved around quite a bit. I've lived in: east/south Asian places like Singapore, Hong Kong, Tokyo; middle east in Dubai; random American places like New Jersey, California, Indiana, Texas, Georgia, and Washington; and multiple places in India such as Chennai, Hyderabad, and Bangalore. I'm currently in San Diego, learning how to beach and scouting out the local boba tea stores.
 
 In the wee few hours that I get when I'm not building RL agents, I try to juggle hobby things, with varying degress of success.
 
