@@ -8,7 +8,7 @@ classes: wide
 author:
   name: "Prithviraj (Raj) Ammanabrolu"
   avatar: "/assets/images/raj3.jpg"
-  bio: "**Researcher** Allen Institute for Artificial Intelligence"
+  bio: "Assistant Professor at UCSD and Research Scientist at MosaicML"
   links:
     - label: "Email"
       icon: "fas fa-inbox"
