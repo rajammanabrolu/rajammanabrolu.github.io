@@ -10,9 +10,12 @@ author:
   avatar: "/assets/images/raj3.jpg"
   bio: "Assistant Professor at UCSD and Research Scientist at MosaicML"
   links:
-    - label: "Email"
-      icon: "fas fa-inbox"
+    - label: "University Email"
+      icon: "fa fa-university"
       url: "mailto:prithvi@ucsd.edu"
+    - label: "Company Email"
+      icon: "fa fa-building"
+      url: "mailto:raja@databricks.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/rajammanabrolu"
@@ -38,7 +41,7 @@ author:
 
 It reads:
 
-"Well, hello there. I'm a research scientist at [MosaicML](https://www.mosaicml.com/). I am an incoming Assistant Professor of Computer Science at the University of California, San Diego - recruiting PhD students only for the 2023-24 admissions cycle.
+"Well, hello there. I'm a research scientist at [MosaicML](https://www.mosaicml.com/) in [Databricks](https://www.databricks.com/). I am an incoming Assistant Professor of Computer Science at the University of California, San Diego - recruiting PhD students only for the 2023-24 admissions cycle.
 
 I was previously on the [Mosaic](https://mosaic.allenai.org/) team in the [Allen Institute for AI](https://allenai.org/). 
 I received my PhD in Computer Science from the School of Interactive Computing at the Georgia Institute of Technology, advised by Professor Mark Riedl as a research assistant at the [Entertainment Intelligence Lab](https://eilab.gatech.edu/).
