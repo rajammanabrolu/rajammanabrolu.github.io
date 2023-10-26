@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Prithviraj (Raj) Ammanabrolu"
-email: raja@allenai.org
+email: prithvi@ucsd.edu
 description: "All things interactive NLP!" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

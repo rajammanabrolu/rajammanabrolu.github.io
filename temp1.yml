@@ -610,10 +610,10 @@ entries:
         -   first: Roy
             last: Fox
     lu2023inference:
-        type: article
+        type: inproceedings
         title: 'Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs
             without Fine-tuning'
-        journal: arXiv preprint arXiv:2305.15065
+        booktitle: Empirical Methods in Natural Language Processing (EMNLP)
         url: https://arxiv.org/abs/2305.15065
         year: '2023'
         author:
@@ -653,10 +653,11 @@ entries:
         -   first: Yejin
             last: Choi
     lin2023swiftsage:
-        type: article
+        type: inproceedings
         title: 'SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex
             Interactive Tasks'
-        journal: arXiv preprint arXiv:2305.17390
+        booktitle: Thirty-seventh Conference on Neural Information Processing Systems
+            (NeurIPS)
         year: '2023'
         url: https://arxiv.org/abs/2305.17390
         code: https://github.com/yuchenlin/swiftsage/
@@ -669,23 +670,24 @@ entries:
             last: Fu
         -   first: Karina
             last: Yang
-        -   first: Prithviraj
-            last: Ammanabrolu
         -   first: Faeze
             last: Brahman
         -   first: Shiyu
             last: Huang
         -   first: Chandra
             last: Bhagavatula
+        -   first: Prithviraj
+            last: Ammanabrolu
         -   first: Yejin
             last: Choi
         -   first: Xiang
             last: Ren
     wu2023finegrained:
-        type: article
+        type: inproceedings
         title: Fine-Grained Human Feedback Gives Better Rewards for Language Model
             Training
-        journal: arXiv preprint arXiv:2306.01693
+        booktitle: Thirty-seventh Conference on Neural Information Processing Systems
+            (NeurIPS)
         year: '2023'
         url: https://arxiv.org/abs/2306.01693
         website: https://finegrainedrlhf.github.io/

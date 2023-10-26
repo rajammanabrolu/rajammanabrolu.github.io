@@ -886,17 +886,17 @@ entries:
             last: Fox
       - id: lu2023inference
         bibtex: |
-            @article{lu2023inference,
+            @inproceedings{lu2023inference,
             title={Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning},
             author={Ximing Lu and Faeze Brahman and Peter West and Jaehun Jang and Khyathi Chandu and Abhilasha Ravichander and Lianhui Qin and Prithviraj Ammanabrolu and Liwei Jiang and Sahana Ramnath and Nouha Dziri and Jillian Fisher and Bill Yuchen Lin and Skyler Hallinan and Xiang Ren and Sean Welleck and Yejin Choi},
-            journal={arXiv preprint arXiv:2305.15065},
+            booktitle={Empirical Methods in Natural Language Processing (EMNLP)},
             url={https://arxiv.org/abs/2305.15065},
             year={2023}
             }
-        type: article
+        type: inproceedings
         title: 'Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs
             without Fine-tuning'
-        journal: arXiv preprint arXiv:2305.15065
+        booktitle: Empirical Methods in Natural Language Processing (EMNLP)
         url: https://arxiv.org/abs/2305.15065
         year: '2023'
         author:
@@ -937,17 +937,18 @@ entries:
             last: Choi
       - id: lin2023swiftsage
         bibtex: |
-            @article{lin2023swiftsage,
+            @inproceedings{lin2023swiftsage,
             title={SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks},
-            author={Lin, Bill Yuchen and Fu, Yicheng and Yang, Karina and Ammanabrolu, Prithviraj and Brahman, Faeze and Huang, Shiyu and Bhagavatula, Chandra and Choi, Yejin and Ren, Xiang},
-            journal={arXiv preprint arXiv:2305.17390},
+            author={Lin, Bill Yuchen and Fu, Yicheng and Yang, Karina and Brahman, Faeze and Huang, Shiyu and Bhagavatula, Chandra and Ammanabrolu, Prithviraj and Choi, Yejin and Ren, Xiang},
+            booktitle={Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)},
             year={2023},
             url={https://arxiv.org/abs/2305.17390},
             }
-        type: article
+        type: inproceedings
         title: 'SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex
             Interactive Tasks'
-        journal: arXiv preprint arXiv:2305.17390
+        booktitle: Thirty-seventh Conference on Neural Information Processing Systems
+            (NeurIPS)
         year: '2023'
         url: https://arxiv.org/abs/2305.17390
         code: https://github.com/yuchenlin/swiftsage/
@@ -960,31 +961,32 @@ entries:
             last: Fu
         -   first: Karina
             last: Yang
-        -   first: Prithviraj
-            last: Ammanabrolu
         -   first: Faeze
             last: Brahman
         -   first: Shiyu
             last: Huang
         -   first: Chandra
             last: Bhagavatula
+        -   first: Prithviraj
+            last: Ammanabrolu
         -   first: Yejin
             last: Choi
         -   first: Xiang
             last: Ren
       - id: wu2023finegrained
         bibtex: |
-            @article{wu2023finegrained,
+            @inproceedings{wu2023finegrained,
             title={Fine-Grained Human Feedback Gives Better Rewards for Language Model Training},
             author={Zeqiu Wu and Yushi Hu and Weijia Shi and Nouha Dziri and Alane Suhr and Prithviraj Ammanabrolu and Noah A. Smith and Mari Ostendorf and Hannaneh Hajishirzi},
-            journal={arXiv preprint arXiv:2306.01693},
+            booktitle={Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)},
             year={2023},
             url={https://arxiv.org/abs/2306.01693},
             }
-        type: article
+        type: inproceedings
         title: Fine-Grained Human Feedback Gives Better Rewards for Language Model
             Training
-        journal: arXiv preprint arXiv:2306.01693
+        booktitle: Thirty-seventh Conference on Neural Information Processing Systems
+            (NeurIPS)
         year: '2023'
         url: https://arxiv.org/abs/2306.01693
         website: https://finegrainedrlhf.github.io/
