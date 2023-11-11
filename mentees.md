@@ -6,6 +6,7 @@ title: Collabs
 
 # Mentees and Collaborators
 I am fortunate to have had a chance to work with and help advise an amazingly talented group of people on research projects.
+My group website can be found: [PEARLS Lab](http://pearls.ucsd.edu)
 
 **PhD Students**
 
