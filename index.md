@@ -41,7 +41,7 @@ author:
 
 It reads:
 
-"Well, hello there. I am an Assistant Professor of Computer Science at the University of California, San Diego - leading the [**PEARLS Lab**](http://pearls.ucsd.edu) in the Department of Computer Science and Engineering (CSE).
+"Well, hello there. I am an Assistant Professor of Computer Science at the University of California, San Diego - leading the [🧋**PEARLS Lab**🧋](http://pearls.ucsd.edu) in the Department of Computer Science and Engineering (CSE).
 I am recruiting multiple PhD students for the 2023-24 admissions cycle!!
 More info for prospective students is found on my group website.
 
