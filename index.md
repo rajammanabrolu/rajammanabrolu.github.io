@@ -42,7 +42,7 @@ author:
 It reads:
 
 "Well, hello there. I am an Assistant Professor of Computer Science at the University of California, San Diego - leading the [🧋**PEARLS Lab**🧋](http://pearls.ucsd.edu) in the Department of Computer Science and Engineering (CSE).
-I am recruiting *not* recruiting any students for my lab. More info can be found on my group website.
+I am currently *not* recruiting any students for my lab. More info can be found on my group website.
 
 I'm also a research scientist at [Mosaic AI](https://www.mosaicml.com/) in [Databricks](https://www.databricks.com/). My team is recruiting research scientists and engineers with strong RL/distributed systems experience. Please [apply](https://www.databricks.com/company/careers/engineering/genai-research-scientist-7011271002) and drop a note to the right email.
 
