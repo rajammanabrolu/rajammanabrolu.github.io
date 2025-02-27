@@ -1,8 +1,8 @@
 main:
   - title: "Publications"
     url: publications.html
-  - title: "CV"
-    url: CV.html
+  - title: "Teaching"
+    url: teaching.html
   - title: "Projects"
     url: https://pearls-lab.github.io/projects/
   - title: "Mentees"
