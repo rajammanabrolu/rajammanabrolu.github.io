@@ -1,6 +1,6 @@
 main:
   - title: "Publications"
-    url: publications.html
+    url: https://pearls-lab.github.io/pubs/
   - title: "Teaching"
     url: teaching.html
   - title: "Projects"
