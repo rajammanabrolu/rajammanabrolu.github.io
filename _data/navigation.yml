@@ -7,6 +7,8 @@ main:
     url: https://pearls-lab.github.io/projects/
   - title: "Mentees"
     url: mentees.html
+  - title: "CV"
+    url: cv.html
   - title: "Bio"
     url: bio.html
 
