@@ -8,14 +8,14 @@ classes: wide
 author:
   name: "Prithviraj (Raj) Ammanabrolu"
   avatar: "/assets/images/raj3.jpg"
-  bio: "Assistant Professor at UCSD and Research Scientist at MosaicML"
+  bio: "Assistant Professor at UCSD"
   links:
     - label: "University Email"
       icon: "fa fa-university"
       url: "mailto:prithvi@ucsd.edu"
     - label: "Company Email"
       icon: "fa fa-building"
-      url: "mailto:raja@databricks.com"
+      url: "mailto:"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/rajammanabrolu"
@@ -42,10 +42,11 @@ author:
 It reads:
 
 "Well, hello there. I am an Assistant Professor of Computer Science at the University of California, San Diego - leading the [🧋**PEARLS Lab**🧋](http://pearls.ucsd.edu) in the Department of Computer Science and Engineering (CSE).
-More info can be found on my group website. 
-I'm also a research scientist at [Mosaic AI](https://www.mosaicml.com/) in [Databricks](https://www.databricks.com/). 
+More info can be found on my group website.
 
-I was previously on the Mosaic team in the [Allen Institute for AI](https://allenai.org/). 
+
+I was previously a research scientist at [Mosaic AI](https://www.mosaicml.com/) in [Databricks](https://www.databricks.com/). 
+And before that on the Mosaic team in the [Allen Institute for AI](https://allenai.org/). 
 I received my PhD in Computer Science from the School of Interactive Computing at the Georgia Institute of Technology, advised by Professor Mark Riedl as a research assistant at the [Entertainment Intelligence Lab](https://eilab.gatech.edu/).
 
 My CV is found [here](https://prithvirajva.com/CV.html), my list of publication [here](https://prithvirajva.com/publications.html), and projects [here](https://prithvirajva.com/projects.html).
