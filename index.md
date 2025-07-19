@@ -8,7 +8,7 @@ classes: wide
 author:
   name: "Prithviraj (Raj) Ammanabrolu"
   avatar: "/assets/images/raj3.jpg"
-  bio: "Assistant Professor at UCSD"
+  bio: "Assistant Professor at UCSD and Research Scientist at Nvidia"
   links:
     - label: "University Email"
       icon: "fa fa-university"
@@ -44,8 +44,10 @@ It reads:
 "Well, hello there. I am an Assistant Professor of Computer Science at the University of California, San Diego - leading the [🧋**PEARLS Lab**🧋](http://pearls.ucsd.edu) in the Department of Computer Science and Engineering (CSE).
 More info can be found on my group website.
 
+I am also a research scientist at Nvidia interested in all things scaling embodied AI.
 
-I was previously a research scientist at [Mosaic AI](https://www.mosaicml.com/) in [Databricks](https://www.databricks.com/). 
+
+I was previously a research scientist at [MosaicML](https://www.mosaicml.com/) acquired by [Databricks](https://www.databricks.com/). 
 And before that on the Mosaic team in the [Allen Institute for AI](https://allenai.org/). 
 I received my PhD in Computer Science from the School of Interactive Computing at the Georgia Institute of Technology, advised by Professor Mark Riedl as a research assistant at the [Entertainment Intelligence Lab](https://eilab.gatech.edu/).
 
