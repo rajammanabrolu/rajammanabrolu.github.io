@@ -5,7 +5,7 @@ classes: wide
 sidebar:
   - image: /assets/images/raj2.jpg
   - text: "Assistant Professor and Research Scientist"
-  - text: "UCSD and MosaicML"
+  - text: "UCSD and Nvidia"
   - title: "Contact"
   - text: '<i class="fab fa-fw fa-twitter-square"></i> <a href="https://twitter.com/rajammanabrolu">@rajammanabrolu</a>'
   - text: '<i class="fas fa-inbox"></i> <a href="mailto:prithvi@ucsd.edu">prithvi@ucsd.edu</a>'
