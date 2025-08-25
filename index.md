@@ -15,7 +15,7 @@ author:
       url: "mailto:prithvi@ucsd.edu"
     - label: "Company Email"
       icon: "fa fa-building"
-      url: "mailto:"
+      url: "mailto:pammanabrolu@nvidia.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/rajammanabrolu"
