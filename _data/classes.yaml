@@ -1,7 +1,13 @@
 classes:
-- name: Spring 2025, CSE 190 Intro to Deep Reinforcement Learning
-  website: 
-- name: Winter 2025, CSE 291 AI Agents
+- name: Spring 2026, CSE 190 Intro to Deep Reinforcement Learning
+  website: https://pearls-lab.github.io/deep-rl-course-SP26/
+- name: Winter 2026, CSE 291 AI Agents
   website: https://pearls-lab.github.io/ai-agents-course/index.html
 - name: Fall 2025, CSE 259 AI Seminar
+  website: https://cse.ucsd.edu/graduate/courses/course-descriptions/cse259-seminar-artificial-intelligence
+- name: Spring 2025, CSE 190 Intro to Deep Reinforcement Learning
+  website: https://pearls-lab.github.io/deep-rl-course/
+- name: Winter 2025, CSE 291 AI Agents
+  website: https://pearls-lab.github.io/ai-agents-course/index.html
+- name: Fall 2024, CSE 259 AI Seminar
   website: https://cse.ucsd.edu/graduate/courses/course-descriptions/cse259-seminar-artificial-intelligence
