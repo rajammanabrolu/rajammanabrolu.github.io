@@ -15,7 +15,7 @@ author:
       url: "mailto:prithvi@ucsd.edu"
     - label: "Company Email"
       icon: "fa fa-building"
-      url: "mailto:"
+      url: "mailto:raj@noeri.ai"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/rajammanabrolu"
@@ -43,6 +43,8 @@ It reads:
 
 "Well, hello there. I am an Assistant Professor of Computer Science at the University of California, San Diego - leading the [🧋**PEARLS Lab**🧋](http://pearls.ucsd.edu) in the Department of Computer Science and Engineering (CSE).
 More info can be found on my group website.
+
+I also recently helped found [Noeri AI](https://noeri.ai) and lead the research team there. I am hiring extensively at Noeri - please [apply](https://jobs.ashbyhq.com/noeri)!
 
 I was previously a research scientist at Nvidia scaling all things embodied AI.
 Before that, I helped lead post-training efforts at [MosaicML](https://www.mosaicml.com/) acquired by [Databricks](https://www.databricks.com/). 
